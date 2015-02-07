@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is my Github Pages Blog
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+Some stuff I made
+
+[Kittysplit - The easiest way to split expenses with friends](http://kittysplit.com) 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[caspar.wrede@gmail.com](mailto:caspar.wrede@gmail.com)
