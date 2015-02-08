@@ -20,15 +20,15 @@ Note: you must give a values for FILEPATH. This must be absolute e.g. /home/bob/
 
 You must also give a value for MYUSERNAME (e.g. bob). Do not not use $USER because the script will run as root.
 
-{% highlight bash %}
-#!/bin/bash
+{% highlight bash linenos%}
+	#!/bin/bash
 
-FILEPATH=TODO
-MYUSERNAME=TODO
+	FILEPATH=TODO
+	MYUSERNAME=TODO
 
-DATE=$(date +%F)
-FILENAME="$(date +%F-%R)-$(hostname).jpg"
-su $MYUSERNAME -c "DISPLAY=:0 scrot -q 70 $FILEPATH$FILENAME"
+	DATE=$(date +%F)
+	FILENAME="$(date +%F-%R)-$(hostname).jpg"
+	su $MYUSERNAME -c "DISPLAY=:0 scrot -q 70 $FILEPATH$FILENAME"
 {% endhighlight %}
 
 ## Step 3
