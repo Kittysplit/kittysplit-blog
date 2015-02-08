@@ -5,7 +5,7 @@ title: Chromedriver error on Ubuntu
 I was seeing the following error when running Chromedriver on Ubuntu:
 
 
-{% highlight %}
+{% highlight bash%}
 /usr/lib/chromium-browser/chromedriver: error while loading shared libraries: libgfx.so: cannot open shared object file: No such file or directory
 {% endhighlight %}
 
