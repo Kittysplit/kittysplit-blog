@@ -8,12 +8,12 @@ Running the site through Google's wonderful page speed insights [tool](https://d
 
 Here's what you need to do to implement caching for static files.
 
-Add the following to appengine-web.xml (remembering to substitute the correct directory).
+Add the following to `appengine-web.xml` (remembering to substitute the correct directory for `/STATIC_DIR/`).
 
 {% highlight xml %}
  <!-- Set a long cache expiration time for static files -->
  <static-files>
-    <include path="/DIRECTORY/WITH/STATIC/FILES/HERE/**" expiration="365d"/>
+    <include path="/STATIC_DIR/**" expiration="365d"/>
     <include path="/**.html">
   </static-files>
 {% endhighlight %}
