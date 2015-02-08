@@ -13,14 +13,14 @@ Install the scrot package
 sudo apt-get install scrot
 {% endhighlight %}
 
-## Step 2
+### Step 2
 Create the following script and call it `screenshots`
 
 Note: you must give a values for FILEPATH. This must be absolute e.g. /home/bob/Dropbox.
 
 You must also give a value for MYUSERNAME (e.g. bob). Do not not use $USER because the script will run as root.
 
-```
+{% highlight bash %}
 #!/bin/bash
 
 FILEPATH=TODO
@@ -29,7 +29,7 @@ MYUSERNAME=TODO
 DATE=$(date +%F)
 FILENAME="$(date +%F-%R)-$(hostname).jpg"
 su $MYUSERNAME -c "DISPLAY=:0 scrot -q 70 $FILEPATH$FILENAME"
-```
+{% endhighlight %}
 
 ## Step 3
 Change the owner of the file, make it executable and move it to the cron folder.
