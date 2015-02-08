@@ -9,14 +9,14 @@ Here's how to do it using just command-line tools on Ubuntu.
 ## Step 1
 Install the scrot package
 
-```
+{% highlight bash %}
 sudo apt-get install scrot
-```
+{% endhighlight %}
 
 ## Step 2
 Create the following script and call it `screenshots`
 
-Note: you must give a values for FILEPATH. This must be absolute e.g. /home/bob/Dropbox.<br /><br/>
+Note: you must give a values for FILEPATH. This must be absolute e.g. /home/bob/Dropbox.
 
 You must also give a value for MYUSERNAME (e.g. bob). Do not not use $USER because the script will run as root.
 
