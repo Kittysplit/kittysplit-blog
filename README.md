@@ -1,4 +1,4 @@
-# My Jekyll Instance
+# The Kittysplit Blog
 
 This was forked from https://github.com/jekyll/jekyll
 

@@ -17,40 +17,46 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-          
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-          
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
-      </div>
-    </div>
+    <!-- Styles -->
+    <link href="http://kittysplit.com/stylesheets/bootstrap.css?v=1" rel="stylesheet" type="text/css">
+    <link href="http://kittysplit.com/stylesheets/kitty_styles.css?v=1" rel="stylesheet" type="text/css">
+</head>
+<body >
+    <div id="wrap">
+        <div id="top-nav" class="navbar">
+            <div class="navbar-inner">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <a href="http://www.kittysplit.com/" class="logo"></a>
+                            <a href="http://www.kittysplit.com/"><span class="white-text logo-text">Kittysplit Blog</span></a>
+                   
+                        </div><!-- End .col-xs-12 -->
+                    </div><!-- End .row -->
+                </div><!-- End .container -->
+            </div><!-- End .navbar-inner-header -->
+        </div><!-- End .navbar -->
 
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
     </div>
+        <div class="main-footer" id="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="main-footer-group pull-left">
+                            <img src="http://kittysplit.com/static/logos/footerIcon.png">
+                            <span class="kitty-stamp">Kittysplit</span><span class="kitty-stamp gbr">©2015 Kittysplit GbR</span>
+                        </div>
 
-    {% include analytics.html %}
-  </body>
+                        <div class="main-footer-group pull-right">
+                            <a href="http://www.kittysplit.com/blog.html" class="footer-links">About</a>
+                            <a href="http://www.kittysplit.com/legal.html" class="footer-links">Legal</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</body>
 </html>
