@@ -7,7 +7,7 @@ name: Kittysplit Blog
 description: The offical blog of Kittysplit
 
 # Your disqus shortname, entering this will enable commenting on posts
-disqus: caspii
+disqus: kittysplitblog
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-35829275-1

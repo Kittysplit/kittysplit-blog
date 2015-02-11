@@ -22,7 +22,7 @@
     <link href="http://kittysplit.com/stylesheets/kitty_styles.css?v=1" rel="stylesheet" type="text/css">
 </head>
 <body >
-    <div >
+    <div id="wrap">
         <div id="top-nav" class="navbar">
             <div class="navbar-inner">
                 <div class="container">
@@ -40,26 +40,30 @@
             </div><!-- End .navbar-inner-header -->
         </div><!-- End .navbar -->
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
-    </div>
-        <div class="main-footer navbar-fixed-bottom" id="footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12">
-                        <div class="main-footer-group pull-left">
-                            <img src="http://kittysplit.com/static/logos/footerIcon.png">
-                            <span class="kitty-stamp">Kittysplit</span><span class="kitty-stamp gbr">©2015 Kittysplit GbR</span>
-                        </div>
+        <div id="main" role="main" class="container">
+          {{ content }}
+        </div>
 
-                        <div class="main-footer-group pull-right">
-                            <a href="http://www.kittysplit.com/blog.html" class="footer-links">About</a>
-                            <a href="http://www.kittysplit.com/legal.html" class="footer-links">Legal</a>
-                        </div>
+
+        <div id="push"></div> <!-- Required to push footer at bottom with being fied */ -->
+    </div>
+ 
+    <div class="main-footer" id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="main-footer-group pull-left">
+                        <img src="http://kittysplit.com/static/logos/footerIcon.png">
+                        <span class="kitty-stamp">Kittysplit</span><span class="kitty-stamp gbr">©2015 Kittysplit GbR</span>
+                    </div>
+
+                    <div class="main-footer-group pull-right">
+                        <a href="http://www.kittysplit.com/blog.html" class="footer-links">About</a>
+                        <a href="http://www.kittysplit.com/legal.html" class="footer-links">Legal</a>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
 </body>
 </html>
