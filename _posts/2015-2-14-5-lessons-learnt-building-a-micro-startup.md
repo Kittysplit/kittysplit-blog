@@ -8,8 +8,8 @@ One thing that will strike you if you read about startups is that the lessons th
 
 Onto the lessons!
 
-## Don't be dispirited if your idea already exists
-Once you get over the initial shock of discovering that someone has already had your idea, you will begin to work out how you could do it better. It goes without saying that you should know who you’re up against. Look at your competitors' products closely and work out what their strengths and weaknesses are.
+## Don't be put off if your idea already exists
+Once you get over the initial shock of discovering that someone has already had your idea, you will begin to work out how you could do it better. Look at your competitors' products closely and work out what their strengths and weaknesses are.
 
 We were actually a little lax on this front and discovered most of our competitors after we’d already started. I’m almost certain that we would never have made Kittysplit if we had been fully aware from the outset of the range of competing apps and tools out there for splitting costs ([here's a list](http://alternativeto.net/software/kittysplit/)). In the end, we made yet another tool to join the fray, but we made one that was a little better (we believe) in certain ways.
 
@@ -31,7 +31,7 @@ Also, just after we launched, we were looking through our logs and discovered th
 
 Of course, none of this is new. These issues have been examined at great length in the [Lean Startup movement](http://en.wikipedia.org/wiki/Lean_startup). What was great was experiencing first hand that it actually worked.
 
-## Agree on who does what and how much if it. Then write it down
+## Agree on who does what and how much of it. Then write it down
 This is particularly important if you’re starting off part-time. Because here’s what will happen: you and your team will be full of vim and vigour at the outset. You’ll be excited about the new market opportunity you’ve discovered and how in the next few months you’re going to absolutely nail it. 
 
 Then reality sets in. Things take longer or don’t pan out. Disappointments happen. And slowly some of the team will lose interest. Maybe they’ll have other priorities, a difficult client or trouble at work. They’ll do less and have less time. Resentment will begin to accumulate and then things can get ugly very quickly. 
