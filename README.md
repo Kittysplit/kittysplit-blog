@@ -9,7 +9,7 @@ To build and serve locally: `jekyll serve --watch`
 ## Deploying
 ```
 TARGET=/home/wrede/repos/kittysplit/src/main/webapp/blog
-jekyll build $TARGET
+jekyll build -d $TARGET
 ```
 alternatively
 `cp -R _site/* /home/wrede/repos/kittysplit/src/main/webapp/blog`
