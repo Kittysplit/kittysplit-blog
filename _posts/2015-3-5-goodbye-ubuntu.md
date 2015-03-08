@@ -50,4 +50,4 @@ A quick peek at Google Trends seems to tell a similar tale.
 
 It seems that Ubuntu has exhausted itself in a string of misadventures,  bad bets and features and policies that annoyed its community. The ones that spring to mind are:  [Ubuntu Edge](http://en.wikipedia.org/wiki/Ubuntu_Edge), [Ubuntu TV](http://www.ubuntu.com/tv), moving the windows buttons, [Wayland vs Mir](http://en.wikipedia.org/wiki/Mir_(software)#Controversy), [Ubuntu one](http://blog.canonical.com/2014/04/02/shutting-down-ubuntu-one-file-services/), [Ubuntu vs Banshee](http://www.zdnet.com/article/shuttleworth-on-the-ubuntu-banshee-controversy-mistakes-were-made/),  and [trademark “abuse”](http://arstechnica.com/information-technology/2013/11/canonical-abused-trademark-law-to-target-a-site-critical-of-ubuntu-privacy/).
 
-People are moving on and so are we. Goodbye Ubuntu. It’s been emotional.
+People are moving on and so are we. Goodbye Ubuntu. It’s been emotional. (But don't worry, you can still use Kittysplit to [split expenses between friends](http://kittysplit.com).)
