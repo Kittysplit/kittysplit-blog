@@ -22,6 +22,7 @@ This bit is also quite easy.
 Open the file ``input.txt`` in your favorite text editor. You'll see that it contains a section called "--prefixes" and one called "--suffixes". Simply edit these sections as you see fit, taking care not to delete the actual section titles.
 
 The python script will take each prefix, combine it with every suffix and then check if the resulting .com domain is free. For example, if you only have the prefix "ilove" and the two suffixes, "money" and "myself", then the script will check if the following domains are free:
+
 * ilovemoney.com
 * iloveymyself.com
  
