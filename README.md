@@ -7,9 +7,9 @@ Installing Jekyll on Ubuntu: http://michaelchelen.net/81fa/install-jekyll-2-ubun
 To build and serve locally: `jekyll serve --watch`
 
 ## Deploying
+Change the output directory as appropriate
 ```
-TARGET=/home/wrede/repos/kittysplit/src/main/webapp/blog
-jekyll build -d $TARGET
+jekyll build -d /home/wrede/repos/kittysplit/src/main/webapp/blog
 ```
 alternatively
 `cp -R _site/* /home/wrede/repos/kittysplit/src/main/webapp/blog`
