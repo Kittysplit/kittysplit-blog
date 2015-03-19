@@ -24,9 +24,9 @@ There are a bunch of brilliant new features and even more are coming soon. Here 
 4. Debts can now be marked as settled. Lots of you had asked for this feature.
 
 ## New tech
-We haven't just polished the surface. Kittysplit is now implemented using some very shiny new technology: [Elixir](http://elixir-lang.org/). Hushed voices whisper that it could be the new Ruby on Rails. We didn't wait, but went with it now. We're also no longer running on Google App engine. 
+We haven't just polished the surface. Kittysplit is now implemented using some very shiny new technology: [Phoenix](http://www.phoenixframework.org/) on [Elixir](http://elixir-lang.org/). Hushed voices whisper that it could be the new Ruby on Rails. We didn't wait, but went with it now. We're also no longer running on Google App engine. 
 
-Anyway, we'll expand on these topics in a later post.
+We'll expand on these topics in a later post.
 
 ## Can I use the new beta for real-life things?
 Yes! Your data will be safe. Once the beta transitions to the default version your kitties will be right there. We are not going to throw anything away.
