@@ -1,6 +1,6 @@
 # The Kittysplit Blog
 
-This was forked from https://github.com/jekyll/jekyll
+The blog is generated using http://jekyllrb.com/. This repo was forked from https://github.com/jekyll/jekyll
 
 Installing Jekyll on Ubuntu: http://michaelchelen.net/81fa/install-jekyll-2-ubuntu-14-04/
 
