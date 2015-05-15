@@ -14,7 +14,7 @@ google_analytics: UA-35829275-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "http://kittysplit.com/blog"
+url: "http://old.kittysplit.com/blog"
 
 # Used for resources and stuff
 baseurl: "/blog"
