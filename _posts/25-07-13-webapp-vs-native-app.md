@@ -7,7 +7,7 @@ App or no app? That’s a question that is regularly posed here at Kittysplit To
 
 ![_config.yml]({{ site.baseurl }}/images/2015-07-app-icon.png)
 
-We’re pretty sure that many of our competitors (some long dead) sealed their fate by deciding they definitely needed an app. Once you have a good-enough webapp, the advantages of an additional native app are not that great. Let’s dive in.
+We’re actually pretty sure that many of our competitors (some long dead) sealed their fate by deciding they needed an app. Once you have a good-enough webapp, the advantages of an additional native app are not that great. Let’s dive in.
 
 # The case for having an app
 
@@ -35,7 +35,7 @@ A pretty solid case so far. Let’s look at what the the other side has to say.
 # The case against having an app
 
 ## Exhibit one: Costs
-App costs money - lots of it. Even the most basic app which does little more that say “Hello World” will have a price tag of 5k EUR. Once the app does fancy stuff like talking to a server that number skyrockets to 50k plus in no time. And then there’s the kicker: you’re going to have to build the app twice, once for iOS and once for Android. Yes, we know about cross platform solutions, but they (still) suck.
+App costs money &mdash; lots of it. Even the most basic app which does little more that say “Hello World” will have a price tag of 5k EUR. Once the app does fancy stuff like talking to a server that number skyrockets to 50k plus in no time. And then there’s the kicker: you’re going to have to build the app twice, once for iOS and once for Android. Yes, we know about cross platform solutions, but they (still) suck.
 
 If you build a solid webapp on the other hand, you’ll serve everyone, including individualists who use Windows Phones and other wonderful contraptions. 
 
@@ -46,7 +46,7 @@ Making apps is hard. It’s getting easier, but it’s still much harder than ma
 
 When you update a webapp, on the other hand, every user will instantly get the update and probably won’t even realise.
 
-Then there’s the issue of speed. If you are supporting multiple platforms, you’ll need to roll out features on all of them -- or at least ensure that missing features don’t break the product. This will slow down your product development drastically. Again, this is not an issue if you only have one platform
+Then there’s the issue of development speed. If you are supporting multiple platforms, you’ll need to roll out features on all of them &mdash; or at least ensure that missing features don’t break the product. This will slow down your product development drastically. Again, this is not an issue if you only have one platform
 
 ## Exhibit three: Onboarding
 If you want your product to grow virally then you need to have a really quick onboarding process. This is exactly what Kittysplit currently has: when you’re sent a link to a kitty it takes 2 clicks to get inside and you’re ready to go. There’s *no way* that any app installation plus identification process could ever be that simple. (Actually, Facebook is having a [stab at that problem](https://developers.facebook.com/blog/post/2015/03/25/introducing-messenger-platform-and-businesses-on-messenger/)).
@@ -54,9 +54,9 @@ If you want your product to grow virally then you need to have a really quick on
 Onboarding is probably where we’re strongest compared to the competition (coupled with the fact that users don’t need to register). An app would be a big step backwards for us.
 
 ## Exhibit four: offline access
-OK, here an app wins hands down. Still, consider the fact that being in a situation with zero internet access is less and less likely these days. When we go on holiday we usually buy a data pack, which was really expensive or not even possible five years ago.
+OK, here an app wins hands down. Still, consider the fact that being in a situation with zero internet access is less and less likely these days. When we go on holiday these days we buy a data pack, which was really expensive or not even possible five years ago.
 
 # The verdict
-In our case, the verdict is clear: we don't need an app (right now). It makes no sense to greatly slow down our development and exposing our new users to all kinds of onboarding issues for the sake of improving a an uncommon scenario. 
+In our case, the verdict is clear: we don't need an app (right now). It makes no sense to greatly slow down our development and exposing our new users to all kinds of onboarding issues for the sake of improving an uncommon scenario. 
 
-Of course, there are many cases where an app is the only way to go (photos, location-based background services or anything that relies on sensors or synchronisation). Nonetheless, there are many startups out there, not just our competitors, who would do themselves a huge favor by not putting too much priority on an app -- and maybe making do without one altogether.
+Of course, there are many cases where an app is the only way to go (photos, location-based background services or anything that relies on sensors or synchronisation). Nonetheless, there are many startups out there, not just our competitors, who would do themselves a huge favor by not putting too much priority on an app &mdash; and maybe making do without one altogether.
