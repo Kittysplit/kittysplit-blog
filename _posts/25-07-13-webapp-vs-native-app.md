@@ -5,7 +5,7 @@ title: Webapp vs native app
 
 App or no app? That’s a question that is regularly posed here at Kittysplit Towers.  Surely the answer is app! Right? 
 
-![_config.yml]({{ site.baseurl }}/images/2015-07-app-icon.png)
+![_config.yml]({{ site.baseurl }}/images/2015-07-app-icon.jpg)
 
 We’re actually pretty sure that many of our competitors (some long dead) sealed their fate by deciding they needed an app. Once you have a good-enough webapp, the advantages of an additional native app are not that great. Let’s dive in.
 
