@@ -6,7 +6,8 @@ The blog is generated using http://jekyllrb.com/. This repo was forked from http
 The blog is hosted on github using project pages (in the `gh-pages` branch)
 
 1. `jekyll b`
-2. `git commit -m "Regenerated blog" _site/`
+2. `git commit -am "Regenerated blog"`
+2. `git push`
 3. `git subtree push --prefix _site/ origin gh-pages`
 
 ## Installing on Ubuntu
