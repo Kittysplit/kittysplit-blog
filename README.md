@@ -5,6 +5,8 @@ The blog is generated using http://jekyllrb.com/. This repo was forked from http
 ## Deploying
 The blog is hosted on github using project pages (in the `gh-pages` branch)
 
+To deploy do the following:
+
 1. `jekyll b`
 2. `git commit -am "Regenerated blog"`
 2. `git push`
