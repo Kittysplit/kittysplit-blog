@@ -363,21 +363,21 @@ Opening up HTTP links takes ages (what’s it compiling this time?). Changing th
     
       <item>
         <title>Hello World</title>
-        <description>&lt;p&gt;Hi there!&lt;/p&gt;
+        <description>&lt;p&gt;Hey there!&lt;/p&gt;
 
-&lt;p&gt;This is the first post in our brand new blog. &lt;/p&gt;
+&lt;p&gt;This is the first post in our brand new blog.&lt;/p&gt;
 
 &lt;p&gt;What can you expect here? Well, we&amp;#39;ll post sporadically about things that may be of interest, such as: new features, stuff we learned, changes in our technology stack, excuses for why we did things the way we did them.&lt;/p&gt;
 
 &lt;p&gt;We&amp;#39;ll probably not post so much about evenings where we all go bowling (even those happen very regularly).&lt;/p&gt;
 
-&lt;p&gt;Also: let&amp;#39;s be totally honest here. A blog is a great place to build up a lucious meadow of keywords 
+&lt;p&gt;Also: let&amp;#39;s be totally honest here. A blog is a great place to build up a lucious meadow of keywords
 for the Googlebot to graze on. So that&amp;#39;s also a reason why we&amp;#39;ve started this blog.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/hello-world.jpg&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;This blog is created using &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, a static site generator. The philosophy behind it is explained by its 
-creator &lt;a href=&quot;http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html&quot;&gt;here&lt;/a&gt;. One of the many advantages 
+&lt;p&gt;This blog is created using &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, a static site generator. The philosophy behind it is explained by its
+creator &lt;a href=&quot;http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html&quot;&gt;here&lt;/a&gt;. One of the many advantages
 of Jekyll is that there&amp;#39;s no futzing around with Wordpress and databases. We like simple solutions.&lt;/p&gt;
 
 &lt;p&gt;And so our first post draws to an end. Help us celebrate this momentous occassion by leaving behind a comment below.&lt;/p&gt;
