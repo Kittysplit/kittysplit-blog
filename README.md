@@ -2,16 +2,12 @@
 
 The blog is generated using http://jekyllrb.com/. This repo was forked from https://github.com/jekyll/jekyll
 
-To build and serve locally: `jekyll serve --watch`
-
 ## Deploying
-Change the output directory as appropriate
+The blog is hosted on github using project pages (in the `gh-pages` branch)
 
-`jekyll build -d /home/wrede/repos/kittysplit/src/main/webapp/blog`
-
-alternatively
-
-`cp -R _site/* /home/wrede/repos/kittysplit/src/main/webapp/blog`
+1. `jekyll b`
+2. `git commit -m "Regenerated blog" _site/`
+3. `git subtree push --prefix _site/ origin gh-pages`
 
 ## Installing on Ubuntu
 1. Install Ruby Version > 2: http://stackoverflow.com/questions/26595620/how-to-install-ruby-2-1-4-on-ubuntu-14-04
