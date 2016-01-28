@@ -2,7 +2,7 @@
 layout: post
 title: Hello World
 ---
-Hey there!
+Hi there!
 
 This is the first post in our brand new blog.
 
