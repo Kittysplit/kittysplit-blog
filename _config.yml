@@ -14,10 +14,10 @@ google_analytics: UA-35829275-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "http://blog.kittysplit.com/"
+url: "http://blog.kittysplit.com"
 
 # Used for resources and stuff
-baseurl: "/kittysplit-blog/"
+baseurl: "/kittysplit-blog"
 
 #
 # !! You don't need to change any of the configuration flags below !!
