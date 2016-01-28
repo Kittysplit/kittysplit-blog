@@ -1,37 +1,16 @@
-<<<<<<< HEAD
----
-layout: null
----
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>{{ site.name | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}
-      <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ site.url }}{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-      </item>
-    {% endfor %}
-=======
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kittysplit Blog</title>
     <description></description>
-    <link>http://blog.kittysplit.com/</link>
-    <atom:link href="http://blog.kittysplit.com//feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://blog.kittysplit.com</link>
+    <atom:link href="http://blog.kittysplit.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Webapp vs native app</title>
         <description>&lt;p&gt;App or no app? That’s a question that is regularly posed here at Kittysplit Towers.  Surely the answer is app! Right? &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/kittysplit-blog//images/2015-07-app-icon.jpg&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2015-07-app-icon.jpg&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;We’re actually pretty sure that many of our competitors (some long dead) sealed their fate by deciding they needed an app. Once you have a good-enough webapp, the advantages of an additional native app are not that great. Let’s dive in.&lt;/p&gt;
 
@@ -98,15 +77,15 @@ layout: null
 &lt;p&gt;Of course, there are many cases where an app is the only way to go (photos, location-based background services or anything that relies on sensors or synchronisation). Nonetheless, there are many startups out there, not just our competitors, who would do themselves a huge favor by not putting too much priority on an app &amp;mdash; and maybe making do without one altogether.&lt;/p&gt;
 </description>
         <pubDate>Mon, 13 Jul 2015 00:00:00 +0200</pubDate>
-        <link>http://blog.kittysplit.com//webapp-vs-native-app/</link>
-        <guid isPermaLink="true">http://blog.kittysplit.com//webapp-vs-native-app/</guid>
+        <link>http://blog.kittysplit.com/webapp-vs-native-app/</link>
+        <guid isPermaLink="true">http://blog.kittysplit.com/webapp-vs-native-app/</guid>
       </item>
     
       <item>
         <title>The new version of Kittysplit is online</title>
         <description>&lt;p&gt;This is just a quick note to say that we did it!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/kittysplit-blog//images/2015-05-launch.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2015-05-launch.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;We launched the new version of Kittysplit. The old version, for nostalgia friends, is still online &lt;a href=&quot;http://old.kittysplit.com/&quot;&gt;here&lt;/a&gt;. Your old kitties will continue to work exactly as before.&lt;/p&gt;
 
@@ -131,8 +110,8 @@ layout: null
 Kittysplit.&lt;/p&gt;
 </description>
         <pubDate>Thu, 14 May 2015 00:00:00 +0200</pubDate>
-        <link>http://blog.kittysplit.com//new-version-online/</link>
-        <guid isPermaLink="true">http://blog.kittysplit.com//new-version-online/</guid>
+        <link>http://blog.kittysplit.com/new-version-online/</link>
+        <guid isPermaLink="true">http://blog.kittysplit.com/new-version-online/</guid>
       </item>
     
       <item>
@@ -148,14 +127,14 @@ Kittysplit.&lt;/p&gt;
 &lt;h2&gt;Holistic synergies&lt;/h2&gt;
 
 &lt;p&gt;&lt;em&gt;I met up with the team and really liked them&lt;/em&gt;, Cakmak reveals. &lt;em&gt;Those guys work really hard.&lt;/em&gt;
-&lt;img src=&quot;/kittysplit-blog//images/2015-04-money.jpg&quot; alt=&quot;_config.yml&quot;&gt;
+&lt;img src=&quot;/images/2015-04-money.jpg&quot; alt=&quot;_config.yml&quot;&gt;
 &lt;em&gt;With the investment I have made in the company, they&amp;#39;ll be able to drink that weird yellow fizzy stuff they like for at least another three days. One of them could also really do with a new T-Shirt. Maybe they&amp;#39;ll use it for that.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Mr Cakmak owns a Kebab shop near the Görlitzer Bahnhof in Berlin.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Apr 2015 00:00:00 +0200</pubDate>
-        <link>http://blog.kittysplit.com//Kittysplit-announces-seed-funding/</link>
-        <guid isPermaLink="true">http://blog.kittysplit.com//Kittysplit-announces-seed-funding/</guid>
+        <link>http://blog.kittysplit.com/Kittysplit-announces-seed-funding/</link>
+        <guid isPermaLink="true">http://blog.kittysplit.com/Kittysplit-announces-seed-funding/</guid>
       </item>
     
       <item>
@@ -166,7 +145,7 @@ Kittysplit.&lt;/p&gt;
 
 &lt;p&gt;The thing you&amp;#39;ll probably notice first is that we have a new logo. We think it&amp;#39;s marvelous and hope that you do too. Thanks &lt;a href=&quot;http://norakuper.de/&quot;&gt;Nora&lt;/a&gt;!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/kittysplit-blog//images/2015-03-new-logo.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2015-03-new-logo.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;To go with the logo we also have a new look and colour-scheme. Note that we may tweak this a little more before we release the final version, and indeed after we launch the final version &amp;mdash; because we can.&lt;/p&gt;
 
@@ -203,8 +182,8 @@ Kittysplit.&lt;/p&gt;
 Kittysplit.&lt;/p&gt;
 </description>
         <pubDate>Thu, 19 Mar 2015 00:00:00 +0100</pubDate>
-        <link>http://blog.kittysplit.com//Kittysplit-Version-2-Beta/</link>
-        <guid isPermaLink="true">http://blog.kittysplit.com//Kittysplit-Version-2-Beta/</guid>
+        <link>http://blog.kittysplit.com/Kittysplit-Version-2-Beta/</link>
+        <guid isPermaLink="true">http://blog.kittysplit.com/Kittysplit-Version-2-Beta/</guid>
       </item>
     
       <item>
@@ -213,7 +192,7 @@ Kittysplit.&lt;/p&gt;
 
 &lt;p&gt;We found our domain name (&lt;a href=&quot;http://kittysplit.com&quot;&gt;kittysplit.com&lt;/a&gt;) using a simple Python script.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/kittysplit-blog//images/2015_03_python.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2015_03_python.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;It generates domain names from text building blocks and then checks if they are free. Because this script uses the system &lt;code&gt;whois&lt;/code&gt; command, it will (probably) only run on Linux.&lt;/p&gt;
 
@@ -253,15 +232,15 @@ Kittysplit.&lt;/p&gt;
 &lt;p&gt;If you&amp;#39;re feeling adventurous, change the script so that other top level domains are checked, such as .net or .de.&lt;/p&gt;
 </description>
         <pubDate>Fri, 13 Mar 2015 00:00:00 +0100</pubDate>
-        <link>http://blog.kittysplit.com//finding-a-domain/</link>
-        <guid isPermaLink="true">http://blog.kittysplit.com//finding-a-domain/</guid>
+        <link>http://blog.kittysplit.com/finding-a-domain/</link>
+        <guid isPermaLink="true">http://blog.kittysplit.com/finding-a-domain/</guid>
       </item>
     
       <item>
         <title>Goodbye, Ubuntu</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://www.kittysplit.com/&quot;&gt;Kittysplit&lt;/a&gt; was made on computers running Ubuntu. The initial backend and the frontend were written on two indestructible Thinkpads which famously run the free operating system perfectly. &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/kittysplit-blog//images/2015-03-goodbye-ubuntu-thinkpad.jpg&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2015-03-goodbye-ubuntu-thinkpad.jpg&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;It was only later that Macs entered the developer fray. However, things have changed. Ubuntu is now being retired forever at Kittysplit Towers as a developer OS. Here we list the reasons why.&lt;/p&gt;
 
@@ -317,8 +296,8 @@ Opening up HTTP links takes ages (what’s it compiling this time?). Changing th
 &lt;p&gt;People are moving on and so are we. Goodbye Ubuntu. It’s been emotional. (But don&amp;#39;t worry, you can still use Kittysplit to &lt;a href=&quot;http://kittysplit.com&quot;&gt;split expenses between friends&lt;/a&gt;.)&lt;/p&gt;
 </description>
         <pubDate>Thu, 05 Mar 2015 00:00:00 +0100</pubDate>
-        <link>http://blog.kittysplit.com//goodbye-ubuntu/</link>
-        <guid isPermaLink="true">http://blog.kittysplit.com//goodbye-ubuntu/</guid>
+        <link>http://blog.kittysplit.com/goodbye-ubuntu/</link>
+        <guid isPermaLink="true">http://blog.kittysplit.com/goodbye-ubuntu/</guid>
       </item>
     
       <item>
@@ -349,7 +328,7 @@ Opening up HTTP links takes ages (what’s it compiling this time?). Changing th
 
 &lt;p&gt;When we launched Kittysplit it looked OK, but it was pretty wonky. The user-flow was weird, it had lots of quirks and it didn’t work on mobile at all. People began using it nonetheless and they gave us feedback which we were able to react to immediately. This was essential to improving our product.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/kittysplit-blog//images/2015-2-kittysplit-launch.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2015-2-kittysplit-launch.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Also, just after we launched, we were looking through our logs and discovered that one of our sisters-in-law had created a kitty for a hen weekend. She and a number of her friends had used our half-finished product exactly as we had intended, all without any kind of hand-holding. It was an amazing moment: we knew that we had the basics right. To put it another way: our core assumption had been validated. From then on, we listened to our users and implemented the features they asked for. This is an excellent way of building the things that matter and not getting side-tracked.&lt;/p&gt;
 
@@ -373,32 +352,32 @@ Opening up HTTP links takes ages (what’s it compiling this time?). Changing th
 
 &lt;p&gt;What’s surprising is that despite being only a micro-startup, our experiences support a good number of the reasons identified by CB insights for why startups fail. Read more about that &lt;a href=&quot;http://thenextweb.com/insider/2014/09/25/top-20-reasons-startups-fail-report/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/kittysplit-blog//images/2015-2-lessons.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2015-2-lessons.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Anyway, that’s all for now. We learnt a lot of other things too, such as basic SEO, and the pros and cons of making an app, but we’re going to dedicate future blog posts to those topics. If you’d like us to expand on anything here, let us know!&lt;/p&gt;
 </description>
         <pubDate>Sat, 14 Feb 2015 00:00:00 +0100</pubDate>
-        <link>http://blog.kittysplit.com//5-lessons-learnt-building-a-micro-startup/</link>
-        <guid isPermaLink="true">http://blog.kittysplit.com//5-lessons-learnt-building-a-micro-startup/</guid>
+        <link>http://blog.kittysplit.com/5-lessons-learnt-building-a-micro-startup/</link>
+        <guid isPermaLink="true">http://blog.kittysplit.com/5-lessons-learnt-building-a-micro-startup/</guid>
       </item>
     
       <item>
         <title>Hello World</title>
         <description>&lt;p&gt;Hi there!&lt;/p&gt;
 
-&lt;p&gt;This is the first post in our brand new blog. &lt;/p&gt;
+&lt;p&gt;This is the first post in our brand new blog.&lt;/p&gt;
 
 &lt;p&gt;What can you expect here? Well, we&amp;#39;ll post sporadically about things that may be of interest, such as: new features, stuff we learned, changes in our technology stack, excuses for why we did things the way we did them.&lt;/p&gt;
 
 &lt;p&gt;We&amp;#39;ll probably not post so much about evenings where we all go bowling (even those happen very regularly).&lt;/p&gt;
 
-&lt;p&gt;Also: let&amp;#39;s be totally honest here. A blog is a great place to build up a lucious meadow of keywords 
+&lt;p&gt;Also: let&amp;#39;s be totally honest here. A blog is a great place to build up a lucious meadow of keywords
 for the Googlebot to graze on. So that&amp;#39;s also a reason why we&amp;#39;ve started this blog.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/kittysplit-blog//images/hello-world.jpg&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/hello-world.jpg&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;This blog is created using &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, a static site generator. The philosophy behind it is explained by its 
-creator &lt;a href=&quot;http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html&quot;&gt;here&lt;/a&gt;. One of the many advantages 
+&lt;p&gt;This blog is created using &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, a static site generator. The philosophy behind it is explained by its
+creator &lt;a href=&quot;http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html&quot;&gt;here&lt;/a&gt;. One of the many advantages
 of Jekyll is that there&amp;#39;s no futzing around with Wordpress and databases. We like simple solutions.&lt;/p&gt;
 
 &lt;p&gt;And so our first post draws to an end. Help us celebrate this momentous occassion by leaving behind a comment below.&lt;/p&gt;
@@ -407,10 +386,9 @@ of Jekyll is that there&amp;#39;s no futzing around with Wordpress and databases
 Kittysplit.&lt;/p&gt;
 </description>
         <pubDate>Wed, 11 Feb 2015 00:00:00 +0100</pubDate>
-        <link>http://blog.kittysplit.com//Hello-World/</link>
-        <guid isPermaLink="true">http://blog.kittysplit.com//Hello-World/</guid>
+        <link>http://blog.kittysplit.com/Hello-World/</link>
+        <guid isPermaLink="true">http://blog.kittysplit.com/Hello-World/</guid>
       </item>
     
->>>>>>> cd57c4e52d6d29fa6392113132381060bc55f905
   </channel>
 </rss>
