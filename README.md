@@ -6,13 +6,14 @@ To build and serve locally: `jekyll serve --watch`
 
 ## Deploying
 Change the output directory as appropriate
-```
-jekyll build -d /home/wrede/repos/kittysplit/src/main/webapp/blog
-```
+
+`jekyll build -d /home/wrede/repos/kittysplit/src/main/webapp/blog`
+
 alternatively
+
 `cp -R _site/* /home/wrede/repos/kittysplit/src/main/webapp/blog`
 
 ## Installing on Ubuntu
-1. ```sudo apt-get install ruby ruby-dev make gcc nodejs```
-2. ```sudo gem install jekyll github-pages --no-rdoc --no-ri```
-
+1. Install Ruby Version > 2: http://stackoverflow.com/questions/26595620/how-to-install-ruby-2-1-4-on-ubuntu-14-04
+1. `sudo apt-get install ruby ruby-dev make gcc nodejs`
+2. `gem install jekyll github-pages --no-rdoc --no-ri` (note no `sudo`!)
