@@ -10,7 +10,7 @@
         <title>Webapp vs native app</title>
         <description>&lt;p&gt;App or no app? That’s a question that is regularly posed here at Kittysplit Towers.  Surely the answer is app! Right? &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2015-07-app-icon.jpg&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/kittysplit-blog//images/2015-07-app-icon.jpg&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;We’re actually pretty sure that many of our competitors (some long dead) sealed their fate by deciding they needed an app. Once you have a good-enough webapp, the advantages of an additional native app are not that great. Let’s dive in.&lt;/p&gt;
 
@@ -85,7 +85,7 @@
         <title>The new version of Kittysplit is online</title>
         <description>&lt;p&gt;This is just a quick note to say that we did it!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2015-05-launch.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/kittysplit-blog//images/2015-05-launch.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;We launched the new version of Kittysplit. The old version, for nostalgia friends, is still online &lt;a href=&quot;http://old.kittysplit.com/&quot;&gt;here&lt;/a&gt;. Your old kitties will continue to work exactly as before.&lt;/p&gt;
 
@@ -127,7 +127,7 @@ Kittysplit.&lt;/p&gt;
 &lt;h2&gt;Holistic synergies&lt;/h2&gt;
 
 &lt;p&gt;&lt;em&gt;I met up with the team and really liked them&lt;/em&gt;, Cakmak reveals. &lt;em&gt;Those guys work really hard.&lt;/em&gt;
-&lt;img src=&quot;/images/2015-04-money.jpg&quot; alt=&quot;_config.yml&quot;&gt;
+&lt;img src=&quot;/kittysplit-blog//images/2015-04-money.jpg&quot; alt=&quot;_config.yml&quot;&gt;
 &lt;em&gt;With the investment I have made in the company, they&amp;#39;ll be able to drink that weird yellow fizzy stuff they like for at least another three days. One of them could also really do with a new T-Shirt. Maybe they&amp;#39;ll use it for that.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Mr Cakmak owns a Kebab shop near the Görlitzer Bahnhof in Berlin.&lt;/p&gt;
@@ -145,7 +145,7 @@ Kittysplit.&lt;/p&gt;
 
 &lt;p&gt;The thing you&amp;#39;ll probably notice first is that we have a new logo. We think it&amp;#39;s marvelous and hope that you do too. Thanks &lt;a href=&quot;http://norakuper.de/&quot;&gt;Nora&lt;/a&gt;!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2015-03-new-logo.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/kittysplit-blog//images/2015-03-new-logo.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;To go with the logo we also have a new look and colour-scheme. Note that we may tweak this a little more before we release the final version, and indeed after we launch the final version &amp;mdash; because we can.&lt;/p&gt;
 
@@ -192,7 +192,7 @@ Kittysplit.&lt;/p&gt;
 
 &lt;p&gt;We found our domain name (&lt;a href=&quot;http://kittysplit.com&quot;&gt;kittysplit.com&lt;/a&gt;) using a simple Python script.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2015_03_python.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/kittysplit-blog//images/2015_03_python.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;It generates domain names from text building blocks and then checks if they are free. Because this script uses the system &lt;code&gt;whois&lt;/code&gt; command, it will (probably) only run on Linux.&lt;/p&gt;
 
@@ -240,7 +240,7 @@ Kittysplit.&lt;/p&gt;
         <title>Goodbye, Ubuntu</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://www.kittysplit.com/&quot;&gt;Kittysplit&lt;/a&gt; was made on computers running Ubuntu. The initial backend and the frontend were written on two indestructible Thinkpads which famously run the free operating system perfectly. &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2015-03-goodbye-ubuntu-thinkpad.jpg&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/kittysplit-blog//images/2015-03-goodbye-ubuntu-thinkpad.jpg&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;It was only later that Macs entered the developer fray. However, things have changed. Ubuntu is now being retired forever at Kittysplit Towers as a developer OS. Here we list the reasons why.&lt;/p&gt;
 
@@ -328,7 +328,7 @@ Opening up HTTP links takes ages (what’s it compiling this time?). Changing th
 
 &lt;p&gt;When we launched Kittysplit it looked OK, but it was pretty wonky. The user-flow was weird, it had lots of quirks and it didn’t work on mobile at all. People began using it nonetheless and they gave us feedback which we were able to react to immediately. This was essential to improving our product.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2015-2-kittysplit-launch.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/kittysplit-blog//images/2015-2-kittysplit-launch.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Also, just after we launched, we were looking through our logs and discovered that one of our sisters-in-law had created a kitty for a hen weekend. She and a number of her friends had used our half-finished product exactly as we had intended, all without any kind of hand-holding. It was an amazing moment: we knew that we had the basics right. To put it another way: our core assumption had been validated. From then on, we listened to our users and implemented the features they asked for. This is an excellent way of building the things that matter and not getting side-tracked.&lt;/p&gt;
 
@@ -352,7 +352,7 @@ Opening up HTTP links takes ages (what’s it compiling this time?). Changing th
 
 &lt;p&gt;What’s surprising is that despite being only a micro-startup, our experiences support a good number of the reasons identified by CB insights for why startups fail. Read more about that &lt;a href=&quot;http://thenextweb.com/insider/2014/09/25/top-20-reasons-startups-fail-report/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2015-2-lessons.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/kittysplit-blog//images/2015-2-lessons.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Anyway, that’s all for now. We learnt a lot of other things too, such as basic SEO, and the pros and cons of making an app, but we’re going to dedicate future blog posts to those topics. If you’d like us to expand on anything here, let us know!&lt;/p&gt;
 </description>
@@ -374,7 +374,7 @@ Opening up HTTP links takes ages (what’s it compiling this time?). Changing th
 &lt;p&gt;Also: let&amp;#39;s be totally honest here. A blog is a great place to build up a lucious meadow of keywords 
 for the Googlebot to graze on. So that&amp;#39;s also a reason why we&amp;#39;ve started this blog.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/hello-world.jpg&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/kittysplit-blog//images/hello-world.jpg&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;This blog is created using &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, a static site generator. The philosophy behind it is explained by its 
 creator &lt;a href=&quot;http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html&quot;&gt;here&lt;/a&gt;. One of the many advantages 
