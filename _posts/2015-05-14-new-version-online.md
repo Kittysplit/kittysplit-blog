@@ -10,12 +10,12 @@ We launched the new version of Kittysplit. The old version, for nostalgia friend
 
 ## New Features
 
-Here's a quick reminder about what's new (we covered it in more detail in our [post announcing the beta](/blog/Kittysplit-Version-2-Beta/)).
+Here's a quick reminder about what's new (we covered it in more detail in our [post announcing the beta](/Kittysplit-Version-2-Beta/)).
 
 1. New design and logo
 2. Kittysplit is now available in German. More languages will follow soon.
-3. You can now add incoming expenses to a kitty. 
-3. Some basic stats are provided per kitty. 
+3. You can now add incoming expenses to a kitty.
+3. Some basic stats are provided per kitty.
 4. Debts can now be marked as settled.
 5. Kittysplit is no longer hosted on Google App Engine, instead we are running on [Digital Ocean](https://www.digitalocean.com/?refcode=b300ef2a9cbc) using Phoenix on Elixir.
 5. Massive speed and security improvements.
