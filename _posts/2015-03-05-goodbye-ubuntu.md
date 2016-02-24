@@ -42,11 +42,11 @@ And whilst we’re on the subject of looks, it’s baffling that the Grub Bootlo
 It’s fine to make money and to try and monetize your users. But to claim that this feature in any way adds value for the user is just bizarre. Privacy issues aside, how did Ubuntu fail to see that absolutely nobody is going to want to see Amazon products in the search results when they’re actually looking for files and apps. 
 
 ## General smell of decay and abandonment
-Ubuntu feels like a ghost town. There have been no exciting features or design improvement in the past 2 years. Looking at [Launchpad](https://launchpad.net/), the project management platform for all things Ubuntu, one sees that the last blog post was [made in 2013](http://blog.launchpad.net/). Addtionally, all of the Ubuntu-specific projects that are featured on the front page appear to be stale or dead. 
+Ubuntu Desktop feels like a ghost town. There have been no exciting features or design improvement in the past 2 years. Looking at [Launchpad](https://launchpad.net/), the project management platform for all things Ubuntu, one sees that the last blog post was [made in 2013](http://blog.launchpad.net/). Addtionally, all of the Ubuntu-specific projects that are featured on the front page appear to be stale or dead. 
 
 A quick peek at Google Trends seems to tell a similar tale.
 
-<script type="text/javascript" src="//www.google.com/trends/embed.js?hl=en-US&q=ubuntu&tz&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=500&h=330"></script>
+<script type="text/javascript" src="//www.google.com/trends/embed.js?hl=en-US&q=ubuntu&tz&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=400&h=330"></script>
 
 It seems that Ubuntu has exhausted itself in a string of misadventures,  bad bets and features and policies that annoyed its community. The ones that spring to mind are:  [Ubuntu Edge](http://en.wikipedia.org/wiki/Ubuntu_Edge), [Ubuntu TV](http://www.ubuntu.com/tv), moving the windows buttons, [Wayland vs Mir](http://en.wikipedia.org/wiki/Mir_(software)#Controversy), [Ubuntu one](http://blog.canonical.com/2014/04/02/shutting-down-ubuntu-one-file-services/), [Ubuntu vs Banshee](http://www.zdnet.com/article/shuttleworth-on-the-ubuntu-banshee-controversy-mistakes-were-made/),  and [trademark “abuse”](http://arstechnica.com/information-technology/2013/11/canonical-abused-trademark-law-to-target-a-site-critical-of-ubuntu-privacy/).
 
