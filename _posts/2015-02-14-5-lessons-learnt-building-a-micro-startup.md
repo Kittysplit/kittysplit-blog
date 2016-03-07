@@ -15,7 +15,7 @@ We were actually a little lax on this front and discovered most of our competito
 
 The take-away here is: focus on a few key things which you can definitely do better than your competitors and you’ll have a good chance. And here’s a bonus tip: if your product is simpler in some important way, that’s already a key step.
 
-##Put off burning cash for as long as you can
+## Put off burning cash for as long as you can
 The moment you start burning cash (i.e. pay yourself a salary, have employees, or pay some other fixed costs) is the moment the clock starts ticking. Once that clock counts down to zero, the cash will either be gone and your startup will die, or you’ll be making enough to take off. Hey, that’s why they call it the runway.
 
 Obviously some startups need an investment to start up at all. It could also be that people will advise you that if you’re not “all-in” you haven’t got a chance. 
