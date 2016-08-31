@@ -12,15 +12,15 @@ In our [product](https://www.kittysplit.com/en/) we have a link which leads to a
 
 Here’s how we setup the test:
 
-1. Think of a list of candidates for the call to action and pick one at random to display. This is literally 3 lines of code on the server side.
-2. When the link (or button) is clicked on, send an event to Google Analytics with the call-to-action as a label.
-3. Wait and see what happens
+1. We created a list of candidates for the call-to-action and pick one at random to display. This is literally 3 lines of code on the server side.
+2. When the link (or button) is clicked on, we send an event to Google Analytics with the call-to-action as a label.
+3. That's it!
 
 If you use the excellent [Autotrack library](https://analytics.googleblog.com/2016/02/introducing-autotrack-for-analyticsjs.html), then you don’t even need to write javascript to track the event. For us, the HTML looks like this:
 
 `<a href="#" data-event-category="UI" data-event-action="share link" data-event-label="You owe us a hug!" >a hug!</a>`
 
-Setting up the whole thing should not take more than 30mins.
+Setting up the whole thing should not take more than 30mins. By the way, instead of testing texts, you could also test colors and send the color code as label.
 
 You can then fetch the data directly from Google Analytics. Here’s the results of our test:
 
