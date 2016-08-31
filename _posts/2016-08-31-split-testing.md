@@ -11,6 +11,7 @@ In our [product](https://www.kittysplit.com/en/) we have a link which leads to a
 
 
 Here’s how we setup the test:
+
 1. Think of a list of candidates for the call to action and pick one at random to display. This is literally 3 lines of code on the server side.
 2. When the link (or button) is clicked on, send an event to Google Analytics with the call-to-action as a label.
 3. Wait and see what happens
