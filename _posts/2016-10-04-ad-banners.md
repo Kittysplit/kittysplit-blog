@@ -7,7 +7,7 @@ Yeah, everyone hates ads, including us. Some people have argued that ads have in
 
 First of all, we're only experimenting, which means that some users will see banners in a kitty, others will not.
 
-Secondly, we love Kittysplit and we're not going to ruin it. For now we're only showing banners at the bottom of a page. We'll be closing watching certain metrics to see how users with ads respond.
+Secondly, we love Kittysplit and we're not going to ruin it. For now we're only showing banners at the bottom of a page. We'll be closely watching certain metrics to see how users with ads respond.
 
 Thirdly, this is about money, obviously. The time has come for Kittysplit to prove that it can pay our lunches and not just the odd beer every now and again.
 
