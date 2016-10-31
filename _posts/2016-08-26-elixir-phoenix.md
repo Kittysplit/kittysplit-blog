@@ -3,7 +3,7 @@ layout: post
 title: Rebuilding Kittysplit with Elixir and Phoenix
 ---
 
-Last year we completely rewrote Kittysplit in Elixir and with the Phoenix Framework. Here’s a brief summary of what we learned and why we did it.
+Last year we ([toy rocket science](https://toyrocketscience.com/elixir-berlin)) completely rewrote Kittysplit in Elixir and with the Phoenix Framework. Here’s a brief summary of what we learned and why we did it.
 
 ## Version 1: Google App Engine
 The first version of Kittysplit consisted of a Java backend running on Google App Engine (GAE) and a Javascript frontend (you can still reach it [here](http://old.kittysplit.com/)). GAE, a Platform as a Service, comes with a lot of goodies already baked in, such as a noSQL datastore and automatic scaling of your application. They have a free tier which we quickly left behind, but it turned out that the hosting costs were peanuts (a few dollars a month).
