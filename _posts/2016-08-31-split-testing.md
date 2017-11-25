@@ -27,5 +27,3 @@ You can then fetch the data directly from Google Analytics. Here’s the results
 ![_config.yml]({{ site.baseurl }}/images/2016-08-test-results.png)
 
 As you can see, the winner is almost twice as likely to be clicked on as the next candidate. That’s pretty good data for such a “cheap” test!
-
-We’ll be using this method extensively for our next project, [HelloBudget](http://hellobudget.co), where call-to-actions play a much bigger role.
