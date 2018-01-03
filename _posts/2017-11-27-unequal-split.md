@@ -25,7 +25,7 @@ We are currently working on a bunch of new things that we'll be launching within
 
 <div class="">
 <br>
-<a href="/en/new" class="btn btn-lg btn-primary btn-start" >Try Kittysplit!</a>
+<a href="https://kittysplit.com/en/new" class="btn btn-lg btn-primary btn-start" >Try Kittysplit!</a>
 <br><br>
 </div>
 
