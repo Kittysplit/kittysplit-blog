@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A super simple way to split-test a call-to-action
+title: A simple way to split-test a call-to-action with Google Analytics
 ---
 
 Split testing is of course a very broad topic with truckloads of tools, frameworks, opinions, caveats, and pitfalls. We’re not going to go into all of that, but describe a very easy methodology for testing a call-to-action using Google Analytics.
