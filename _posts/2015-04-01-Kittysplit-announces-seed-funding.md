@@ -9,7 +9,7 @@ Erdem Cakmak, a first-time investor, is funding Kittysplit.
 ## Holistic synergies
 "I met up with the team and really liked them", Cakmak reveals. "Those guys work really hard."
 
-![_config.yml]({{ site.baseurl }}/images/2015-04-money.jpg)
+![10 EURs for Kittysplit]({{ site.baseurl }}/images/2015-04-money.jpg)
 
 He went on: "With the investment I have made in the company, they'll be able to drink that weird yellow fizzy stuff they like for at least another three days. One of them could also really do with a new T-Shirt. Maybe they'll use it for that."
 

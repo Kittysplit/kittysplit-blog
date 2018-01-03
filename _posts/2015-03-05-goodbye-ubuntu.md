@@ -2,15 +2,15 @@
 layout: post
 title: Goodbye, Ubuntu
 ---
-[Kittysplit](http://www.kittysplit.com/) was made on computers running Ubuntu. The initial backend and the frontend were written on two indestructible Thinkpads which famously run the free operating system perfectly. 
+[Kittysplit](http://www.kittysplit.com/) was made on computers running Ubuntu. The initial backend and the frontend were written on two indestructible Thinkpads which famously run the free operating system perfectly.
 
-![_config.yml]({{ site.baseurl }}/images/2015-03-goodbye-ubuntu-thinkpad.jpg)
+![Ubuntu Thinkpad]({{ site.baseurl }}/images/2015-03-goodbye-ubuntu-thinkpad.jpg)
 
 It was only later that Macs entered the developer fray. However, things have changed. Ubuntu is now being retired forever at Kittysplit Towers as a developer OS. Here we list the reasons why.
 
 Admittedly some of theses reasons are not developer specific, but they are worth mentioning because they illustrate why Ubuntu failed in its wider mission to become a "Linux of the people".  
 
-## Too much web developer tool futzing 
+## Too much web developer tool futzing
 Installing all the latest and greatest frontend dev tools does not work out of the box with Ubuntu. Things like Node.js, Bower, SASS and so on need extra PPAs, setting up system-wide  links or using sudo to install what should be user-space libraries. On Mac OSX it works flawlessly using homebrew.
 
 ## The installation process is unreliable
@@ -27,10 +27,10 @@ Then there’s the Ubuntu Software Center. It takes so long starting up that you
 
 ## The terminal is crappy
 The terminal is the one tool that every developer will be using daily, so why was this not improved a long time ago?
-Opening up HTTP links takes ages (what’s it compiling this time?). Changing the colour scheme is very well hidden in some sub-settings. Resizing the terminal does not lead to a nice reformatting of output. And, last but not least: the shortcut to paste ist not CTRL+V like in all other apps since the beginning of recorded history, but CTRL+SHIFT+V. Totally baffling. 
+Opening up HTTP links takes ages (what’s it compiling this time?). Changing the colour scheme is very well hidden in some sub-settings. Resizing the terminal does not lead to a nice reformatting of output. And, last but not least: the shortcut to paste ist not CTRL+V like in all other apps since the beginning of recorded history, but CTRL+SHIFT+V. Totally baffling.
 
 ## Ubuntu is ugly
-Ah, the old “Ubuntu doesn’t look good” chestnut. Of course, beauty is always in the eye of the beholder and just because everyone one else has gone for flat design, doesn’t mean that Ubuntu has to. 
+Ah, the old “Ubuntu doesn’t look good” chestnut. Of course, beauty is always in the eye of the beholder and just because everyone one else has gone for flat design, doesn’t mean that Ubuntu has to.
 
 However, the fact is that Ubuntu looks dated. After several promising iterations on the icons and the color scheme, things &mdash; in the true Ubuntu way &mdash; just stopped.
 
@@ -39,10 +39,10 @@ The font-rendering has always been pretty awful (although this could be an eye-o
 And whilst we’re on the subject of looks, it’s baffling that the Grub Bootloader was never styled (as it is for other distros). This is the first thing that a user will see when he (dual) boots his machine. It’s the very first impression and the point where the design experience starts. Why give the user the idea he’s been teleported into DOS-world?
 
 ## The Amazon search result debacle
-It’s fine to make money and to try and monetize your users. But to claim that this feature in any way adds value for the user is just bizarre. Privacy issues aside, how did Ubuntu fail to see that absolutely nobody is going to want to see Amazon products in the search results when they’re actually looking for files and apps. 
+It’s fine to make money and to try and monetize your users. But to claim that this feature in any way adds value for the user is just bizarre. Privacy issues aside, how did Ubuntu fail to see that absolutely nobody is going to want to see Amazon products in the search results when they’re actually looking for files and apps.
 
 ## General smell of decay and abandonment
-Ubuntu Desktop feels like a ghost town. There have been no exciting features or design improvement in the past 2 years. Looking at [Launchpad](https://launchpad.net/), the project management platform for all things Ubuntu, one sees that the last blog post was [made in 2013](http://blog.launchpad.net/). Addtionally, all of the Ubuntu-specific projects that are featured on the front page appear to be stale or dead. 
+Ubuntu Desktop feels like a ghost town. There have been no exciting features or design improvement in the past 2 years. Looking at [Launchpad](https://launchpad.net/), the project management platform for all things Ubuntu, one sees that the last blog post was [made in 2013](http://blog.launchpad.net/). Addtionally, all of the Ubuntu-specific projects that are featured on the front page appear to be stale or dead.
 
 A quick peek at Google Trends seems to tell a similar tale.
 

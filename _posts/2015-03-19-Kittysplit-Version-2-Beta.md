@@ -8,13 +8,13 @@ There is so much goodness in the new version of Kittysplit that we don't actuall
 
 The thing you'll probably notice first is that we have a new logo. We think it's marvelous and hope that you do too. Thanks [Nora](http://norakuper.de/)!
 
-![_config.yml]({{ site.baseurl }}/images/2015-03-new-logo.png)
+![Kittysplit Logo]({{ site.baseurl }}/images/2015-03-new-logo.png)
 
 To go with the logo we also have a new look and colour-scheme. Note that we may tweak this a little more before we release the final version, and indeed after we launch the final version &mdash; because we can.
 
 ## New features
 
-Onto the beef. 
+Onto the beef.
 
 There are a bunch of brilliant new features and even more are coming soon. Here are the most important ones:
 
@@ -24,7 +24,7 @@ There are a bunch of brilliant new features and even more are coming soon. Here 
 4. Debts can now be marked as settled. Lots of you had asked for this feature.
 
 ## New tech
-We haven't just polished the surface. Kittysplit is now implemented using some very shiny new technology: [Phoenix](http://www.phoenixframework.org/) on [Elixir](http://elixir-lang.org/). Hushed voices whisper that it could be the new Ruby on Rails. We didn't wait, but went with it now. We're also no longer running on Google App engine. 
+We haven't just polished the surface. Kittysplit is now implemented using some very shiny new technology: [Phoenix](http://www.phoenixframework.org/) on [Elixir](http://elixir-lang.org/). Hushed voices whisper that it could be the new Ruby on Rails. We didn't wait, but went with it now. We're also no longer running on Google App engine.
 
 We'll expand on these topics in a later post.
 

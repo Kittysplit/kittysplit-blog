@@ -22,7 +22,7 @@ So, despite many smart people claiming that you should [never rewrite something 
 ## Version 2: Enter Elixir and Phoenix
 The decision to go with Phoenix/Elixir was not motivated by any deep-seated conviction that this was going to be The Great Leap Forward. It was more a healthy curiosity for an interesting new project.  We had heard the buzz building in the distance and we felt like getting our hands dirty.
 
-![_config.yml]({{ site.baseurl }}/images/2016-08-phoenix.png)
+![Phoenix Logo]({{ site.baseurl }}/images/2016-08-phoenix.png)
 
 The rewrite of Kittysplit began in January 2015 and we had the first working prototype a week later. We had a feature-complete beta version in March and released to production in May. Overall, it was a flawless experience. It would have been even quicker if we hadn’t added some new features and redesigned the app in the process. We also translated everything, added ridiculous-mode [test coverage](https://cucumber.io/) and created an awesome [build pipeline](https://jenkins.io/).
 
@@ -33,7 +33,7 @@ The performance of Elixir and Phoenix is spectacular. We haven’t done any benc
 
 We currently run Kittysplit on 2 very moderately sized [Digital Ocean](https://www.digitalocean.com/?refcode=b300ef2a9cbc) virtual servers, which do the job of serving 2.000 users and 10.000 page-views per day without breaking a sweat. They are both 2 GB, 2 CPU machines with a 40 GB SSD. Due to their light-weight specs we even sometimes refer to them as toasters.
 
-![_config.yml]({{ site.baseurl }}/images/2016-08-toaster.jpg)
+![A really nice toaster]({{ site.baseurl }}/images/2016-08-toaster.jpg)
 
 ## Overall
 We are very happy with the choice we made and have learned a bunch. Sadly we haven’t required channels yet but we’ll find a feature that needs them soon enough (aka developer-candy-driven development).

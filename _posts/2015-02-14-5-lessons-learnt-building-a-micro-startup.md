@@ -18,23 +18,23 @@ The take-away here is: focus on a few key things which you can definitely do bet
 ## Put off burning cash for as long as you can
 The moment you start burning cash (i.e. pay yourself a salary, have employees, or pay some other fixed costs) is the moment the clock starts ticking. Once that clock counts down to zero, the cash will either be gone and your startup will die, or you’ll be making enough to take off. Hey, that’s why they call it the runway.
 
-Obviously some startups need an investment to start up at all. It could also be that people will advise you that if you’re not “all-in” you haven’t got a chance. 
+Obviously some startups need an investment to start up at all. It could also be that people will advise you that if you’re not “all-in” you haven’t got a chance.
 
 However, ours’ was a different experience: because we’re a micro startup we have a very long runway which allows us to learn, listen to user feedback and improve our product. The longer you put off burning cash, the longer you will survive and the better your product will be because of it. Which brings us onto the next point:
 
 ## It’s OK to launch a crappy product
 When we launched Kittysplit it looked OK, but it was pretty wonky. The user-flow was weird, it had lots of quirks and it didn’t work on mobile at all. People began using it nonetheless and they gave us feedback which we were able to react to immediately. This was essential to improving our product.
 
-![_config.yml]({{ site.baseurl }}/images/2015-2-kittysplit-launch.png)
+![This is an MVP]({{ site.baseurl }}/images/2015-2-kittysplit-launch.png)
 
 Also, just after we launched, we were looking through our logs and discovered that one of our sisters-in-law had created a kitty for a hen weekend. She and a number of her friends had used our half-finished product exactly as we had intended, all without any kind of hand-holding. It was an amazing moment: we knew that we had the basics right. To put it another way: our core assumption had been validated. From then on, we listened to our users and implemented the features they asked for. This is an excellent way of building the things that matter and not getting side-tracked.
 
 Of course, none of this is new. These issues have been examined at great length in the [Lean Startup movement](http://en.wikipedia.org/wiki/Lean_startup). What was great was experiencing first hand that it actually worked.
 
 ## Agree on who does what and how much of it. Then write it down
-This is particularly important if you’re starting off part-time. Because here’s what will happen: you and your team will be full of vim and vigour at the outset. You’ll be excited about the new market opportunity you’ve discovered and how in the next few months you’re going to absolutely nail it. 
+This is particularly important if you’re starting off part-time. Because here’s what will happen: you and your team will be full of vim and vigour at the outset. You’ll be excited about the new market opportunity you’ve discovered and how in the next few months you’re going to absolutely nail it.
 
-Then reality sets in. Things take longer or don’t pan out. Disappointments happen. And slowly some of the team will lose interest. Maybe they’ll have other priorities, a difficult client or trouble at work. They’ll do less and have less time. Resentment will begin to accumulate and then things can get ugly very quickly. 
+Then reality sets in. Things take longer or don’t pan out. Disappointments happen. And slowly some of the team will lose interest. Maybe they’ll have other priorities, a difficult client or trouble at work. They’ll do less and have less time. Resentment will begin to accumulate and then things can get ugly very quickly.
 
 To avoid or at least mitigate this scenario, have an honest discussion right at the very start. Define who is responsible for what and -- very importantly -- how their success is defined. Success in this case can be time-based or goal-based. Then write it down and send it to everyone. It’ll be a helpful basis for difficult discussions that will happen later.
 
@@ -46,6 +46,6 @@ If you’re serious about launching a startup, there’s no excuse for not being
 ## Wrapping up
 What’s surprising is that despite being only a micro-startup, our experiences support a good number of the reasons identified by CB insights for why startups fail. Read more about that [here](http://thenextweb.com/insider/2014/09/25/top-20-reasons-startups-fail-report/).
 
-![_config.yml]({{ site.baseurl }}/images/2015-2-lessons.png)
+![Reasons companies fail]({{ site.baseurl }}/images/2015-2-lessons.png)
 
 Anyway, that’s all for now. We learnt a lot of other things too, such as basic SEO, and the pros and cons of making an app, but we’re going to dedicate future blog posts to those topics. If you’d like us to expand on anything here, let us know!

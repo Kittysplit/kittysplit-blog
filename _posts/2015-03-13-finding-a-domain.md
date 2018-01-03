@@ -2,11 +2,11 @@
 layout: post
 title: We found our domain name using Python
 ---
-Finding a name for your startup is never easy. Many requirements must be met. A name should not be too generic, yet it should somehow convey an idea of what your company is about. You also need to be confident that it doesn't describe an obscure sexual practice in a foreign language. On top of that, you need to ensure that the domain name is free for a sensible top-level domain. 
+Finding a name for your startup is never easy. Many requirements must be met. A name should not be too generic, yet it should somehow convey an idea of what your company is about. You also need to be confident that it doesn't describe an obscure sexual practice in a foreign language. On top of that, you need to ensure that the domain name is free for a sensible top-level domain.
 
 We found our domain name ([kittysplit.com](http://kittysplit.com)) using a simple Python script.
 
-![_config.yml]({{ site.baseurl }}/images/2015_03_python.png)
+![Python running in terminal]({{ site.baseurl }}/images/2015_03_python.png)
 
 It generates domain names from text building blocks and then checks if they are free. Because this script uses the system ``whois`` command, it will (probably) only run on Linux.
 
@@ -26,7 +26,7 @@ The python script will take each prefix, combine it with every suffix and then c
 
 * ilovemoney.com
 * iloveymyself.com
- 
+
 
 ## 3. Run the script
 This is the easiest bit.
