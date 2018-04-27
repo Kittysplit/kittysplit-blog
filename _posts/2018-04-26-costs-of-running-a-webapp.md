@@ -15,6 +15,6 @@ Here's a monthly breakdown:
 * 20 USD for Bugsnag for error reporting and monitoring.
 * 7 USD for Papertrail which is a cloud logging services.
 
-In total that's **115 USD or 95 EUR**. Not included in this the time we invest, office space, Internet, snacks or whiskey.
+In total that's **115 USD or 95 EUR**. Of course, not included in this the time we invest, office space, Internet, snacks or whiskey. And to be honest, the time we invest is the biggest cost by a very long way.
 
 So how much money do we make? That's an excellent question. The vague answer is "not a lot", but we'll illuminate that in another post.
