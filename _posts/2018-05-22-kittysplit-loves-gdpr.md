@@ -5,10 +5,11 @@ title: Kittysplit loves GDPR
 
 OK, we don't acually **love** GDPR, but now you've clicked on the link so let's talk about it.
 
+![We love GDPR]({{ site.baseurl }}/images/2018-05-privacy.jpg 'GDPR')
+
 ## What is GDPR?
 
-First all, you may be wondering what GDPR is? It means General Data Protection Regulation and is a European Union law that comes into effect on May 25th, 2018. All websites and apps that serve users in the EU must comply with this law or be in very deep trouble indeed. Basically, it's all about about protecting the personal data of consumers and providing transparency on what happens with this data.
-
+First all, you may be wondering what GDPR is? It means General Data Protection Regulation and is a European Union law that comes into effect on May 25th, 2018. All websites and apps that serve users in the EU must comply with this law or are in very deep trouble indeed. Basically, it's all about about protecting the personal data of consumers and providing transparency on what happens with this data.
 
 We actually believe that GDPR is a very good thing, despite having a few flaws (like all new legislation).
 
@@ -18,4 +19,4 @@ Back in 1836, when we began to think about creating Kittysplit, we decided that 
 
 As GDPR demands you can already delete your kitties from Kittysplit and export all your data. However, there's one new feature we'll be adding: Kitties that show no activity for 12 months will be have their personal data stripped.
 
-Let me us know how much you love GDPR.
+Do let us know how much you love GDPR (or not).
