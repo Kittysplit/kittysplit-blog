@@ -34,7 +34,7 @@ working it out with one of the two is absolutely the best option. However, befor
 we reveal which spreadsheet solutions we found best, we'd like to examine some of
 the disadvantages given above.
 
-There is one solution that has none of these advantages and guess what... it's the
+There is one solution that has none of these disadvantages and guess what... it's the
 one we made! [Kittysplit](https://kittysplit.com) ...
    * does not require a signup. No passwords and no usernames. You can start using
    it right away.
