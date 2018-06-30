@@ -14,6 +14,8 @@ an Excel spreadsheet or Google sheets are an absolutely valid solution. Read on
 for the 2 best spreadsheets we found for solving the problem.
 
 ![Split costs]({{ site.baseurl }}/images/2018-06-spreadsheet.jpg 'Split costs')
+<br>
+<br>
 
 ## How about using a mobile app or a web-app?
 
@@ -32,7 +34,7 @@ working it out with one of the two is absolutely the best option. However, befor
 we reveal which spreadsheet solutions we found best, we'd like to examine some of
 the disadvantages given above.
 
-There is one solution that has none of these advantages and guess what.. it's the
+There is one solution that has none of these advantages and guess what... it's the
 one we made! [Kittysplit](https://kittysplit.com) ...
    * does not require a signup. No passwords and no usernames. You can start using
    it right away.
