@@ -10,25 +10,26 @@ to a refund. At the end of the day it's a big hassle to work out who owes money
 to whom and to get everyone to settle up.
 
 The problem is so common that there are many different ways of solving it. Of course,
-an Excel Spreadsheet or Google sheets are an absolutely valid solution. Read on
+an Excel spreadsheet or Google sheets are an absolutely valid solution. Read on
 for the 2 best spreadsheets we found for solving the problem.
 
-![Splitting costs]({{ site.baseurl }}/images/2018-06-trick.jpg 'Money funny')
+![Split costs]({{ site.baseurl }}/images/2018-06-spreadsheet.jpg 'Split costs')
 
 ## How about using a mobile app or a web-app?
 
 Naturally, because there's an app for everything, there's also an app for splitting
-bills. In fact there are hundreds! What are the disadvantages for using there apps?
+bills. In fact there are hundreds! What are the disadvantages for using these apps?
    * everyone needs to sign up for the service
    * everyone needs to install the app
    * figuring out how it works is hard
    * Sharing the results with everyone in the group is a hassle
-It sounds like it’s just easier to write it all down and sort it out later with
-a Spreadsheet, right?
 
-There are people out there who are so familiar with Excel or Google Sheets that
+It sounds like it’s just easier to write it all down and sort it out later with
+a spreadsheet, right?
+
+Well .... maybe. There are people out there who are so familiar with Excel or Google Sheets that
 working it out with one of the two is absolutely the best option. However, before
-we reveal which Spreadsheet solutions we found best, we'd like to examine some of
+we reveal which spreadsheet solutions we found best, we'd like to examine some of
 the disadvantages given above.
 
 There is one solution that has none of these advantages and guess what.. it's the
@@ -51,9 +52,12 @@ So why not give it a try?
 
 ## I really want to use Excel or Google sheets
 
-OK, so we didn't manage to sell you on Kittysplit? That's OK, we can live live
+OK, so we didn't manage to sell you on Kittysplit? We can live live
 with that.
 
 The best solution we found for splitting expenses with an Excel sheet is [this one](https://www.exceltactics.com/how-to-split-bills-and-share-expenses-using-a-free-excel-spreadsheet/).
 
 The best one using Google sheets is [this one](https://www.thekeycuts.com/splitting-costs-excel/).
+
+Do let us know why you'd rather use a spreadsheet as opposed to our solution. We're
+very keen to improve, you know...
