@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to share expenses and split costs using an Excel Spreadsheet
+title: How to share expenses and split costs using a Spreadsheet
 ---
 
 There are some hard things in life -- and keeping track of expenses in a group
