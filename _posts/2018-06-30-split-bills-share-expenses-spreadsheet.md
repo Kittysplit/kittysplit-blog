@@ -9,7 +9,7 @@ definitely belongs on that list.
 Say you're going on a trip with friends and
 different people pay different expenses, lend money, maybe even receive money due
 to a refund. At the end of the day it's a big hassle to work out who owes money
-to whom and to get everyone to settle up.
+to whom and to get everyone to settle up. How to split those expenses and costs?
 
 The problem is so common that there are many different ways of solving it. Of course,
 an Excel spreadsheet or Google sheets are an absolutely valid solution. Read on
@@ -22,7 +22,7 @@ for the 2 best spreadsheets we found for solving the problem.
 ## How about using a mobile app or a web-app?
 
 Naturally, because there's an app for everything, there's also an app for splitting
-bills. In fact there are hundreds! What are the disadvantages for using these apps?
+bills, expenses and costs. In fact there are hundreds! What are the disadvantages for using these apps?
    * everyone needs to sign up for the service
    * everyone needs to install the app
    * figuring out how it works is hard
