@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kittysplit launches new features for splitting bills 💵
+title: Kittysplit launches 3 new features for splitting bills 💵
 ---
 
 Good news everyone! We recently added some new features to make sharing costs
