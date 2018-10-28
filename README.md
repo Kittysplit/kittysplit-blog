@@ -13,3 +13,6 @@ The blog is generated using http://jekyllrb.com/. This repo was forked from http
 1. `sudo apt-get install ruby ruby-dev make gcc nodejs`
 2. `sudo gem install jekyll github-pages --no-rdoc --no-ri`
 3. Run `jekyll serve` to view locally (optional)
+
+## Showing drafts
+Run `jekyll serve --drafts`
