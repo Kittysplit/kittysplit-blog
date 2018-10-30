@@ -49,7 +49,7 @@ When you update a webapp, on the other hand, every user will instantly get the u
 Then there’s the issue of development speed. If you are supporting multiple platforms, you’ll need to roll out features on all of them &mdash; or at least ensure that missing features don’t break the product. This will slow down your product development drastically. Again, this is not an issue if you only have one platform
 
 ## Exhibit three: Onboarding
-If you want your product to grow virally then you need to have a really quick onboarding process. This is exactly what Kittysplit currently has: when you’re sent a link to a kitty it takes 2 clicks to get inside and you’re ready to go. There’s *no way* that any app installation plus identification process could ever be that simple. (Actually, Facebook is having a [stab at that problem](https://developers.facebook.com/blog/post/2015/03/25/introducing-messenger-platform-and-businesses-on-messenger/)).
+If you want your product to grow virally then you need to have a really quick onboarding process. This is exactly what Kittysplit currently has: when you’re sent a link to a Kitty it takes 2 clicks to get inside and you’re ready to go. There’s *no way* that any app installation plus identification process could ever be that simple. (Actually, Facebook is having a [stab at that problem](https://developers.facebook.com/blog/post/2015/03/25/introducing-messenger-platform-and-businesses-on-messenger/)).
 
 Onboarding is probably where we’re strongest compared to the competition (coupled with the fact that users don’t need to register). An app would be a big step backwards for us.
 

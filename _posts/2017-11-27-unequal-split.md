@@ -11,7 +11,7 @@ So what is it good for? It allows you to enter items into Kittysplit where the c
 
 ## Cost splitting for couples
 
-A more advanced example for expert splitters is the following. Let's say you have a kitty containing couples. Each couple can be grouped together as a  single participant, so 3 couples could be represented by 3 participants. This works fine until you also have single people in the kitty, because equal sharing between participants is unfair to them. Now, with unequal splitting, this is no longer a problem. Did that make sense? 🤔
+A more advanced example for expert splitters is the following. Let's say you have a Kitty containing couples. Each couple can be grouped together as a  single participant, so 3 couples could be represented by 3 participants. This works fine until you also have single people in the kitty, because equal sharing between participants is unfair to them. Now, with unequal splitting, this is no longer a problem. Did that make sense? 🤔
 ![These guys just did somne cost splitting]({{ site.baseurl }}/images/2017-11-cost-split.jpg 'Dudes are very happy with cost splitting')
 
 ## We want to hear from you

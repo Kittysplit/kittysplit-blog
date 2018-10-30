@@ -17,7 +17,7 @@ In the background of course, things are slightly more complex. We fetch the exch
 
 ## One more thing
 
-Currency conversion is only available in [super Kitties](/kittysplit-premium-features/). This makes the 3 EUR invested to upgrade your Kitty is all the more worth it! Remember, when you pay for the upgrade we will automatically add the (small) cost to your kitty, meaning you'll hardly notice it.
+Currency conversion is only available in [super Kitties](/kittysplit-premium-features/). This makes the 3 EUR invested to upgrade your Kitty all the more worth it! Remember, when you pay for the upgrade we will automatically add the (small) cost to your Kitty, meaning you'll hardly notice it.
 
 
 ## More goodies are on the way! 🎁

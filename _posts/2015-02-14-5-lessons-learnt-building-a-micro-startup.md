@@ -27,7 +27,7 @@ When we launched Kittysplit it looked OK, but it was pretty wonky. The user-flow
 
 ![This is an MVP]({{ site.baseurl }}/images/2015-2-kittysplit-launch.png)
 
-Also, just after we launched, we were looking through our logs and discovered that one of our sisters-in-law had created a kitty for a hen weekend. She and a number of her friends had used our half-finished product exactly as we had intended, all without any kind of hand-holding. It was an amazing moment: we knew that we had the basics right. To put it another way: our core assumption had been validated. From then on, we listened to our users and implemented the features they asked for. This is an excellent way of building the things that matter and not getting side-tracked.
+Also, just after we launched, we were looking through our logs and discovered that one of our sisters-in-law had created a Kitty for a hen weekend. She and a number of her friends had used our half-finished product exactly as we had intended, all without any kind of hand-holding. It was an amazing moment: we knew that we had the basics right. To put it another way: our core assumption had been validated. From then on, we listened to our users and implemented the features they asked for. This is an excellent way of building the things that matter and not getting side-tracked.
 
 Of course, none of this is new. These issues have been examined at great length in the [Lean Startup movement](http://en.wikipedia.org/wiki/Lean_startup). What was great was experiencing first hand that it actually worked.
 
