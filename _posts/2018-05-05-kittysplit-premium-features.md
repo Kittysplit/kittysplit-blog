@@ -27,7 +27,5 @@ This will allow you to add more than 10 people to a kitty. It's useful if you go
 ## Super power 3: Banner-free kitties
 Yeah, you're probably using an ad-blocker already so this one reason doesn't do it for you. We think it's a good super-power none the less.
 
-## More coming soon
-We've got a bunch of other super powers up our sleeve which we'll be adding in the next few months. Stay tuned!
-
-We think this is a fair and transparent system, but if you disagree, let us know!
+## NEW: Super power 4: Currency conversion
+A new entry to the list of premium features is [currency conversion](/multiple-currency-expense-split).
