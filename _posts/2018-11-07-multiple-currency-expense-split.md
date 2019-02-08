@@ -3,7 +3,7 @@ layout: post
 title: Multiple currencies in one Kitty
 ---
 
-You know the feeling when someone's telling a story that involves the cost of something in a foreign currency? "Can you believe that a sandwich costs 23 doubloons over there!" and they expect you to not only know the exchange rate but to do the conversion in your head. We find it annoying when that happens and sadly it's a problem that our newly released feature doesn't solve.
+You know the feeling when someone's telling a story that involves the cost of something in a foreign currency? "Can you believe that a sandwich costs 25 doubloons over there!" and they expect you to not only know the exchange rate but to do the conversion in your head. We find it annoying when that happens and sadly it's a problem that our newly released feature doesn't solve.
 
 Instead, this new feature will make it much simpler to go on these types of international trips and track all costs in the native currency! That's almost almost as good, we feel.
 
