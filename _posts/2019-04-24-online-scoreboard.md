@@ -9,7 +9,7 @@ It's a webapp and is the simplest way to keep track of scores, guaranteed! You c
 
 Click here to take a look: [Keepthescore.co: online scoreboard](https://keepthescore.co).
 
-# Keeping score Online
+# Keeping score online
 
 Of course, there are already a huge number of native apps for Android and iOS that allow you to keep score, but all of them have the same problem: it’s very hard to share a scoreboard with someone else and to collaborate.
 
@@ -31,5 +31,4 @@ style="border:none;">
 
 
 ## More goodies are on the way! 🎁
-
-We are currently working on a bunch of other things that we’ll be launching within the next few months. Do give us feedback and let us know what you think.
+You can expect a real-time basketball scoreboard soon. Until then, please do leave feedback.
