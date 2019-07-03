@@ -32,3 +32,5 @@ style="border:none;">
 
 ## More goodies are on the way! 🎁
 You can expect a real-time basketball scoreboard soon. Until then, please do leave feedback.
+
+UPDATE: here it is [online basketball scoreboard](https://keepthescore.co/basketball-scoreboard).
