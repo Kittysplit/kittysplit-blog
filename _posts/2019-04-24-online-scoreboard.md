@@ -25,7 +25,7 @@ It's also super easy to embed a scoreboard in any kind of website. here's an exa
 
 <iframe height="420px" width="100%"
  scrolling="no"
-src="https://keepthescore.co/game/3SdSIAy3s_s1r?minimal=True"
+src="//keepthescore.co/game/3SdSIAy3s_s1r?minimal=True"
 style="border:none;">
 </iframe>
 
