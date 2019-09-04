@@ -3,16 +3,17 @@ layout: post
 title: Webapp vs native app
 ---
 
-App or no app? That’s a question that is regularly posed here at Kittysplit Towers.  Surely the answer is app! Right?
+App or no app? That’s a question that is regularly posed here at [Kittysplit Towers](https://kittysplit.com).  Surely the answer is app! Right?
 
 ![Empty app icon]({{ site.baseurl }}/images/2015-07-app-icon.jpg)
 
 We’re actually pretty sure that many of our competitors (some long dead) sealed their fate by deciding they needed an app. Once you have a good-enough webapp, the advantages of an additional native app are not that great. Let’s dive in.
 
 # The case for having an app
+What are the advantages of having a native app?
 
 ## Exhibit one: mobile users
-Almost half (49%) of Kittysplit users are on mobile devices, and this percentage will continue to creep upwards. If these users are on smartphones, give them an app!
+Almost half (49%) of Kittysplit users are on mobile devices, and this percentage will continue to creep upwards. If these users are on smartphones, surely we should give them an app!
 
 ## Exhibit two: offline access
 People sometimes go to places with no wifi access (which we would never recommend) where they incur costs that need splitting. With an app, they could enter the expenses in offline mode and then things could sync up once they got back online.
@@ -28,11 +29,13 @@ Users could be informed that expenses have been added or edited for kitties that
  Once a user is constantly being confronted with your app icon, he’ll be much more likely to open it.
 
 ## Exhibit six: bragging rights
-We’re a hipster startup from Berlin, so we absolutely need to have an app which we can wave around in smoky bars at three in the morning.
+We’re a ~hipster~ startup from Berlin, so we absolutely need to have an app which we can wave around in smoky bars at three in the morning.
 
 A pretty solid case so far. Let’s look at what the the other side has to say.
 
 # The case against having an app
+So what are the disadvantages of having an app?
+
 
 ## Exhibit one: Costs
 App costs money &mdash; lots of it. Even the most basic app which does little more that say “Hello World” will have a price tag of 5k EUR. Once the app does fancy stuff like talking to a server that number skyrockets to 50k plus in no time. And then there’s the kicker: you’re going to have to build the app twice, once for iOS and once for Android. Yes, we know about cross platform solutions, but they (still) suck.
@@ -49,7 +52,7 @@ When you update a webapp, on the other hand, every user will instantly get the u
 Then there’s the issue of development speed. If you are supporting multiple platforms, you’ll need to roll out features on all of them &mdash; or at least ensure that missing features don’t break the product. This will slow down your product development drastically. Again, this is not an issue if you only have one platform
 
 ## Exhibit three: Onboarding
-If you want your product to grow virally then you need to have a really quick onboarding process. This is exactly what Kittysplit currently has: when you’re sent a link to a Kitty it takes 2 clicks to get inside and you’re ready to go. There’s *no way* that any app installation plus identification process could ever be that simple. (Actually, Facebook is having a [stab at that problem](https://developers.facebook.com/blog/post/2015/03/25/introducing-messenger-platform-and-businesses-on-messenger/)).
+If you want your product to grow virally then you need to have a really quick onboarding process. This is exactly what Kittysplit currently has: when you’re sent a link to a Kitty it takes 2 clicks to get inside and you’re ready to go. There’s *no way* that any app installation plus identification process could ever be that simple.
 
 Onboarding is probably where we’re strongest compared to the competition (coupled with the fact that users don’t need to register). An app would be a big step backwards for us.
 
