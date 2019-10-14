@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Free Online Scoreboard, works in a browser, no signup!
-description: Bla bla bla
+description: Are you looking for a super-simple online scoreboard for tracking games, classroom fun, household chores, etc? Look no further!
 ---
 
 One of our side-projects is an online scoreboard that works without signup or install. You can share scoreboards simply by sharing a link. (Hmmm, that principle sounds familiar, no? 🤔).
