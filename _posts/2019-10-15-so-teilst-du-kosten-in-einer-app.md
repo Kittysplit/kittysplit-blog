@@ -2,7 +2,7 @@
 layout: post
 title: Keine Lust auf nerviges nachrechnen? So teilst Du Deine Kosten mit Freunden per App
 description: "Die Urlaubskasse, Reisekosten, gemeinsame Kosten in der WG, Kosten in einer Beziehung und andere Ausgaben werden häufig gemeinsam mit anderen Personen geteilt. Daraus ergibt sich die oft gestellte Frage: Wer schuldet wem wie viel Geld?"
-image: /images/basketball-scoreboard.png
+image: /images/de_screen_collage.png
 lang: de
 ---
 
