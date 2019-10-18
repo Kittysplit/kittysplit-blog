@@ -4,7 +4,7 @@ title: Should you build a native app or a web app?
 description: Deciding whether to build a native app or not is hard. Of course it depends a lot on what your product is. Here we share our experiences.
 ---
 
-App or no app? That’s a question that is regularly posed here at [Kittysplit Towers](https://kittysplit.com). Just to remind you, Kittysplit is a webapp for splitting expenses in a group. The app is responsive and works pretty great on a mobile browser: 80% of our users are mobile. Yet we often get the request: "please build am app!" 🙏.
+App or no app? That’s a question that is regularly posed here at [Kittysplit Towers](https://kittysplit.com). Just to remind you, Kittysplit is a webapp for splitting expenses in a group. The app is responsive and works pretty great on a mobile browser: 80% of our users are mobile. Yet we often get the request: "please build an app!" 🙏.
 
 Surely the answer is to build an app! Right?
 
