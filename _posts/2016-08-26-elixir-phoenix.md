@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rebuilding Kittysplit with Elixir and Phoenix
+title: Building a webapp with Elixir and Phoenix
 ---
 
 Last year we completely rewrote Kittysplit in Elixir and with the Phoenix Framework. Here’s a brief summary of what we learned and why we did it.
@@ -37,3 +37,9 @@ We currently run Kittysplit on 2 very moderately sized [Digital Ocean](https://w
 
 ## Overall
 We are very happy with the choice we made and have learned a bunch. Sadly we haven’t required channels yet but we’ll find a feature that needs them soon enough (aka developer-candy-driven development).
+
+<div class="text-center">
+<br>
+<a href="https://kittysplit.com/en/new" class="btn btn-lg btn-primary btn-start" >Try Kittysplit now!</a>
+<br><br>
+</div>

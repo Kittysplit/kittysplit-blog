@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to share expenses and split costs using a Spreadsheet
+description: "Splitting expenses via a spreadsheet is easy if you know how. Check out our solutions..."
 ---
 
 There are some hard things in life -- and keeping track of expenses in a group
@@ -38,7 +39,7 @@ the disadvantages given above.
 
 There is one solution that has none of these disadvantages and guess what... it's the
 one we made! [Kittysplit](https://kittysplit.com) ...
-   * does not require a signup. No passwords and no usernames. You can start using
+   * does not require a sign-up. No passwords and no usernames. You can start using
    it right away.
    * does not require you to download an app. It works in a browser and is
    optimised for mobile use.

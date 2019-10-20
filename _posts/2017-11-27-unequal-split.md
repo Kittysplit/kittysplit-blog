@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cost Split: unequal splitting has landed on Kittysplit"
+title: "Cost Split: unequal splitting of group expenses has landed"
 ---
 
 It's been the most requested feature for the last 4 years. It's our oldest ticket on Github. It's being launched today: we call it unequal split.
@@ -23,9 +23,9 @@ Anyway, we are striving to keep Kittysplit as simple and intuitive as humanly po
 
 We are currently working on a bunch of new things that we'll be launching within the next few months. All of them have been requested multiple times so stay tuned!
 
-<div class="">
+<div class="text-center">
 <br>
-<a href="https://kittysplit.com/en/new" class="btn btn-lg btn-primary btn-start" >Try Kittysplit!</a>
+<a href="https://kittysplit.com/en/new" class="btn btn-lg btn-primary btn-start" >Try Kittysplit now!</a>
 <br><br>
 </div>
 

@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Kittysplit launches 3 new features for splitting bills 💵
+description: "Kittysplit is a bill-splitting app that is feature-rich yet very easy to use. No sign-up required and free!"
 ---
 
 Good news everyone! We recently added some new features to make sharing costs
- in a group even easier.
+ in a group even easier. This is all part of our ongoing push to become the best and easiest bill-splitting solution on the planet and beyond. And you know what? We are already half-way there.
 
-![Splitting costs]({{ site.baseurl }}/images/2018-06-trick.jpg 'Money funny')
+![Splitting costs](/images/2018-06-trick.jpg 'Money funny')
 
 ## Add comments to a kitty
 
@@ -23,6 +24,8 @@ This means you can add expenses where the cost is not equally shouldered by all 
 
 When we launched this feature, you could split a cost by percentage. After much feedback and testing,
 we found out that splitting by weight is actually much better. This way, you don't have to do any calculations to get the percentages: in the example with AirBnB, you can simply enter the nights stayed by each party, and Kittysplit will do the rest 🎩!
+
+![Splitting costs](/images/en_screen_collage.png 'Split bills')
 
 ## Make the costs of the event clearer
 

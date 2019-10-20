@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Super kitties come to Kittysplit!
+title: Super kitties come to out cost-sharing app!
+description: "We offer a bill-splitting app for those situations where you're travelling in multiple counties. Kittysplit is the perfect solution for these scenarios. Find out more!"
 ---
 
 After 6 years of offering Kittysplit completely for free, today we've added some features that will cost money.
@@ -10,7 +11,7 @@ What does this mean for you? First of all: The Kittysplit core functions will re
 ![A super kitty]({{ site.baseurl }}/images/2018-05-supercat.jpg 'I am a super kitty')
 
 ## How much does a super Kitty cost?
-3 EUR payable via Paypal. We'll automatically add this cost to the Kitty so that it's spread between everyone -- which is a solution that we find totally awesome.
+3 EUR payable via Paypal or Stripe. We'll automatically add this cost to the Kitty so that it's spread between everyone -- which is a solution that we find totally awesome.
 
 So what are the super powers?
 
@@ -29,3 +30,11 @@ Yeah, you're probably using an ad-blocker already so this one reason doesn't do 
 
 ## NEW: Super power 4: Currency conversion
 A new entry to the list of premium features is [currency conversion](/multiple-currency-expense-split).
+
+Why not just try it for yourself:
+
+<div class="text-center">
+<br>
+<a href="https://kittysplit.com/en/new" class="btn btn-lg btn-primary btn-start" >Try Kittysplit now!</a>
+<br><br>
+</div>
