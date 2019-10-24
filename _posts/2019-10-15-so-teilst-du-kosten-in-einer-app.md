@@ -6,24 +6,24 @@ image: /images/de_screen_collage.png
 lang: de
 ---
 
-Urlaub ist herrlich! Besonders wenn man mit Freunden unterwegs ist. Jedoch gibt es gerade bei den gemeinsamen Urlauben immer einen Wermutstropfen: die Sache mit dem Geld. Der eine Zahlt die Bootsfahrt, der Andere zahlt ein Essen. Dann kommt das AirBnB hinzu. Es wird Geld geliehen und schwuppdiwupp hat man eine hochkomplexe Rechenaufgabe um alles wieder auseinander zu bekommen. Wenn Du mit allen Teilnehmern des Urlaubs befreundet bleiben willst, dann braucht ihr eine Bill-Splitting-App.
+Urlaub ist herrlich! Besonders wenn man mit Freunden unterwegs ist. Jedoch gibt es gerade bei den gemeinsamen Urlauben immer einen Wermutstropfen: die Sache mit dem Geld. Der eine zahlt die Bootsfahrt, der andere ein Essen. Dann kommt das AirBnB hinzu. Es wird Geld geliehen und schwuppdiwupp hat man eine hochkomplexe Rechenaufgabe, um alles wieder auseinander zu dividieren. Wenn du mit allen Teilnehmern des Urlaubs befreundet bleiben willst, dann braucht ihr eine Bill-Splitting-App.
 
 ![Splitting costs](/images/travel_camera_mountain.jpg 'Urlaub ist schön')
 
 ## Bill-Splitting-Apps helfen beim Kassensturz, aber welche ist die beste?
 
-Wenn Du im App Store oder bei Google nach "Cash-App" oder "Bill-Splitting" suchst dann wird man schier erschlagen an der Fülle des Angebots. Als wir das letzte Mal gezählt haben, fanden wir mehr als 30 unterschiedliche Angebote von unterschiedlichster Qualität. Was auch bemerkenswert ist, ist der stetige Strom an neuen App aber auch denen, die leise wieder verschwinden.
+Wenn du im App Store oder bei Google nach "Cash-App" oder "Bill-Splitting" suchst dann wird man schier erschlagen von der Fülle des Angebots. Als wir das letzte mal gezählt haben, fanden wir mehr als 30 unterschiedliche Angebote von unterschiedlichster Qualität. Was auch bemerkenswert ist, ist der stete Strom an neuen Apps aber auch an denen, die leise wieder verschwinden.
 
-Die Apps für Bill-Splitting funktionieren alle sehr ähnlich: die App muss installiert werden, dann muss meistens ein Account anglegt werden mit Mail und Passwort und dann kann man loslegen. Alle Beteiligten werden mit Namen eingetragen und dann können die Ausgaben für die Gruppe eintragen werden. Pro Ausgabe können dann die Kerndaten eingetragen werden: das Datum, der Grund für die Ausgabe (zB. "Hotel", "Besuch in der Sauna", "Putzfrau für die WG", "Ski-Verleih") und natürlich der Betrag. Die App berechnet dann, wer bei wem Schulden hat und was gezahlt werden muss, damit alle quitt sind.
+Die Apps für Bill-Splitting funktionieren alle sehr ähnlich: die App muss installiert werden, dann muss meistens ein Account angelegt werden mit Mail und Passwort und dann kann man loslegen. Alle Beteiligten werden mit Namen eingetragen und dann können die Ausgaben für die Gruppe eintragen werden. Pro Ausgabe können dann die Kerndaten eingetragen werden: das Datum, der Grund für die Ausgabe (zB. "Hotel", "Besuch in der Sauna", "Putzfrau für die WG", "Ski-Verleih") und natürlich der Betrag. Die App berechnet dann, wer bei wem Schulden hat und was gezahlt werden muss, damit alle quitt sind.
 
 
 ## Die beste Cash-App um kosten zu teilen
-Wir wollen Dir nur eine App vorstellen: sie heißt [Kittysplit](https://kittysplit.com/de). Kittysplit ist keine Smartphone-App die Du installieren kannst, Du findest sie also (noch) nicht im App Store. Stattdessen ist es eine Webapp, die auch auf jedem Handy funktioniert. Wir sind davon überzeugt, dass es ein Riesenvorteil ist, wenn eine App **nicht** installiert werden muss, sondern einfach im Browser funktioniert. Denn stell Dir vor, du bist mit 6 Freunden im Urlaub und alle 6 müssen jetzt eine neue App installieren. Wenn nur einer keine Lust auf Installieren hat, dann wird alles sofort komplizierter. Außerdem fährt man nicht jede dritte Woche in den Urlaub sondern vielleicht nur 1-2 Mal im Jahr. Das bedeutet: eine weitere App auf dem Handy, die selten zur Anwendung kommt und Platz verbraucht .
+Wir wollen dir nur eine App vorstellen: sie heißt [Kittysplit](https://kittysplit.com/de). Kittysplit ist keine Smartphone-App die du installieren kannst, Du findest sie also nicht im App Store. Stattdessen ist es eine Webapp, die auch auf jedem Handy funktioniert. Wir sind davon überzeugt, dass es ein Riesenvorteil ist, wenn eine App **nicht** installiert werden muss, sondern einfach im Browser funktioniert. Denn stell dir vor, du bist mit 6 Freunden im Urlaub und alle 6 müssen jetzt eine neue App installieren. Wenn nur einer keine Lust auf installieren hat, dann wird alles sofort komplizierter. Außerdem fährt man nicht jede dritte Woche in den Urlaub sondern vielleicht nur 1-2 mal im Jahr. Das bedeutet: eine weitere App auf dem Handy, die selten zur Anwendung kommt und Platz verbraucht.
 
 ![Splitting costs](/images/de_screen_collage.png 'Kitysplit')
 
-[Kittysplit](https://kittysplit.com/de) hat einen weiteren großen Vorteil gegenüber anderen Cash-Apps (wie zum Beispiel Splitwise): **Du musst Dich nicht registrieren.** Du kannst die Webapp ohne Login verwenden, aber trotzdem sind deine Daten sicher: der Zugriff funktioniert über einen sicheren Link, den Du mit deiner Gruppe teilst.
+[Kittysplit](https://kittysplit.com/de) hat einen weiteren großen Vorteil gegenüber anderen Cash-Apps (wie zum Beispiel Splitwise): **Du musst dich nicht registrieren.** Du kannst die Webapp ohne Login verwenden, aber trotzdem sind deine Daten sicher: der Zugriff funktioniert über einen sicheren Link, den du mit deiner Gruppe teilst.
 
-Letztens wollen wir noch erwähnen, dass Kittysplit sehr einfach zu bedienen ist. Es gibt keine schwer-verständlichen Tabellen oder Grafiken. Stattdessen wird alles mit kurzen klaren Sätzen beschrieben.
+Letztlich wollen wir noch erwähnen, dass Kittysplit sehr einfach zu bedienen ist. Es gibt keine schwer-verständlichen Tabellen oder Grafiken. Stattdessen wird alles mit kurzen klaren Sätzen beschrieben.
 
-Probier doch [Kittysplit](https://kittysplit.com/de) einfach mal aus und sag und gib uns gerne Feedback.
+Probier doch [Kittysplit](https://kittysplit.com/de) einfach mal aus und gib uns gerne Feedback.
