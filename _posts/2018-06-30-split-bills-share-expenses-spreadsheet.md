@@ -49,11 +49,10 @@ one we made! [Kittysplit](https://kittysplit.com) ...
 
 So why not give it a try?
 
-<div class="">
 <br>
 <a href="https://kittysplit.com/en/new" class="btn btn-lg btn-primary btn-start" >Try Kittysplit!</a>
 <br><br>
-</div>
+
 
 ## I really want to use Excel or Google sheets
 
