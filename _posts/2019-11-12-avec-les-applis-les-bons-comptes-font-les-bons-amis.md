@@ -2,7 +2,7 @@
 layout: post
 title: "Aucune envie de sortir la calculette ?  Avec les applis, les bons comptes font les bons amis"
 description: "Si tu veux rester ami avec tous ceux avec qui tu es parti en vacances, nous te conseillons vivement d'utiliser une Bill-Splitting-App ou application de répartition des coûts."
-image: /images/fr_screen_collage.png
+image: /images/travel_camera_mountain.jpg
 lang: fr
 ---
 
