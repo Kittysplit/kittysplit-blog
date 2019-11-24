@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Aucune envie de sortir la calculette ?  Avec les applis, les bons comptes font les bons amis"
-description: "TODO"
-# image: /images/2018-06-spreadsheet.jpg
+description: "Si tu veux rester ami avec tous ceux avec qui tu es parti en vacances, nous te conseillons vivement d'utiliser une Bill-Splitting-App ou application de répartition des coûts."
+image: /images/fr_screen_collage.png
 lang: fr
 ---
 
@@ -10,7 +10,7 @@ Les vacances, il n'y a que ça de vrai ! En particulier quand on part à plusieu
 
 
 
-![Splitting costs](/images/travel_camera_mountain.jpg 'Urlaub ist schön')
+![{{ page.title }}](/images/travel_camera_mountain.jpg '{{ page.title }}')
 
 
 ## Les applis de répartition des coûts vous aident à faire les comptes, mais laquelle choisir ?
