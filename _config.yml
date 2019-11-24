@@ -19,6 +19,10 @@ twitter:
   username: kittysplit
   card: summary
 
+facebook:
+  publisher: https://www.facebook.com/KittySplit/
+
+logo: https://blog.kittysplit.com/images/kittysplit-blog-logo.png
 
 #
 # !! You don't need to change any of the configuration flags below !!
