@@ -1,23 +1,23 @@
 ---
 layout: post
-title: "Aucune envie de sortir la calculette ?  Avec les applis, les bons comptes font les bons amis"
+title: "Aucune envie de sortir la calculette&nbsp;?  Avec les applis, les bons comptes font les bons amis"
 description: "Si tu veux rester ami avec tous ceux avec qui tu es parti en vacances, nous te conseillons vivement d'utiliser une Bill-Splitting-App ou application de répartition des coûts."
 image: /images/travel_camera_mountain.jpg
 lang: fr
 ---
 
-Les vacances, il n'y a que ça de vrai ! En particulier quand on part à plusieurs. Mais il y a quand même toujours un petit inconvénient aux vacances entre amis : les questions d'argent. L'un paie le voyage en bateau, l'autre un repas. À cela s'ajoute l'AirBnB. Quelqu'un emprunte de l'argent à un autre et voilà – en moins de temps qu'il n'en faut pour le dire, vous vous retrouvez avec un problème arithmétique ultra-complexe pour tout répartir de nouveau. Si tu veux rester ami avec tous ceux avec qui tu es parti en vacances, nous te conseillons vivement d'utiliser une Bill-Splitting-App ou application de répartition des coûts.
+Les vacances, il n'y a que ça de vrai&nbsp;! En particulier quand on part à plusieurs. Mais il y a quand même toujours un petit inconvénient aux vacances entre amis&nbsp;: les questions d'argent. L'un paie le voyage en bateau, l'autre un repas. À cela s'ajoute l'AirBnB. Quelqu'un emprunte de l'argent à un autre et voilà – en moins de temps qu'il n'en faut pour le dire, vous vous retrouvez avec un problème arithmétique ultra-complexe pour tout répartir de nouveau. Si tu veux rester ami avec tous ceux avec qui tu es parti en vacances, nous te conseillons vivement d'utiliser une Bill-Splitting-App ou application de répartition des coûts.
 
 
 
 ![{{ page.title }}](/images/travel_camera_mountain.jpg '{{ page.title }}')
 
 
-## Les applis de répartition des coûts vous aident à faire les comptes, mais laquelle choisir ?
+## Les applis de répartition des coûts vous aident à faire les comptes, mais laquelle choisir&nbsp;?
 
 Si tu effectues une recherche avec les mots-clés « Bill-Splitting » ou « comptes entre amis » dans l'App Store ou sur Google Play, tu seras littéralement submergé par le nombre d'applications existant sur ce sujet. La dernière fois que nous avons fait le test, nous avons trouvé plus de 30 produits de plus ou moins bonne qualité. Un autre phénomène que nous trouvons remarquable est le flux constant de nouvelles applis apparaissant sur le marché... et qui n'a d'égal que le nombre d'applications qui, elles, disparaissent dans la plus grande indifférence.
 
-Les applications de répartition de factures fonctionnent toutes de manière très similaire : on installe tout d'abord l’application, on crée ensuite un compte au moyen d'une adresse e-mail et d'un mot de passe, et c'est parti ! Tous les participants sont désignés par leur nom, puis les dépenses du groupe peuvent être saisies. Chaque dépense est renseignée au moyen de données clés : la date, l'objet de la dépense (« hôtel », « visite au sauna », « femme de ménage pour la colocation », « location des skis » etc.) et bien sûr le montant correspondant.  L'application calcule ensuite qui doit combien à qui pour que tout le monde soit quitte.
+Les applications de répartition de factures fonctionnent toutes de manière très similaire&nbsp;: on installe tout d'abord l’application, on crée ensuite un compte au moyen d'une adresse e-mail et d'un mot de passe, et c'est parti&nbsp;! Tous les participants sont désignés par leur nom, puis les dépenses du groupe peuvent être saisies. Chaque dépense est renseignée au moyen de données clés&nbsp;: la date, l'objet de la dépense (« hôtel », « visite au sauna », « femme de ménage pour la colocation », « location des skis » etc.) et bien sûr le montant correspondant.  L'application calcule ensuite qui doit combien à qui pour que tout le monde soit quitte.
 
 ## La meilleure appli pour répartir les coûts
 
@@ -25,8 +25,8 @@ Nous nous contenterons de te présenter une seule et unique appli – et elle s'
 
 ![Splitting costs](/images/fr_screen_collage.png 'Kitysplit')
 
-[Kittysplit](https://kittysplit.com/fr) présente un autre atout de taille par rapport à d'autres Cash-Apps (comme par exemple Splitwise) : il n'est pas nécessaire de s'inscrire. Tu peux utiliser l'application Web sans te connecter et tes données sont quand même protégées : l'accès fonctionne en effet via un lien sécurisé qu'il te suffit de partager avec les membres du groupe concerné.
+[Kittysplit](https://kittysplit.com/fr) présente un autre atout de taille par rapport à d'autres Cash-Apps (comme par exemple Splitwise)&nbsp;: il n'est pas nécessaire de s'inscrire. Tu peux utiliser l'application Web sans te connecter et tes données sont quand même protégées&nbsp;: l'accès fonctionne en effet via un lien sécurisé qu'il te suffit de partager avec les membres du groupe concerné.
 
-Pour finir, soulignons que Kittysplit est extrêmement simple à utiliser. Adieu tableaux ou autres graphiques incompréhensibles : tout y est décrit de manière claire et concise.
+Pour finir, soulignons que Kittysplit est extrêmement simple à utiliser. Adieu tableaux ou autres graphiques incompréhensibles&nbsp;: tout y est décrit de manière claire et concise.
 
-Alors, lance-toi ! Teste [Kittysplit](https://kittysplit.com/fr) et dis-nous ce que tu en penses ?
+Alors, lance-toi&nbsp;! Teste [Kittysplit](https://kittysplit.com/fr) et dis-nous ce que tu en penses&nbsp;?
