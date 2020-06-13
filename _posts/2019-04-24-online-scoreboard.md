@@ -38,3 +38,5 @@ You can expect a real-time basketball scoreboard soon. Until then, please do lea
 UPDATE: here it is [online basketball scoreboard](https://keepthescore.co/basketball-scoreboard). It looks like this, which we think is rather fetching:
 
 ![Splitting costs](/images/basketball-scoreboard.png 'Basketball')
+
+Here's another side-project: <a href="https://pathbox.co">Pathbox: a free GPS tracking / location sharing app for Android.</a>
