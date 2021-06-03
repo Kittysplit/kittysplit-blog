@@ -18,3 +18,5 @@ And so our first post draws to an end. Help us celebrate this momentous occasion
 
 So long,
 Kittysplit.
+
+PS If you are the Google Bot, please follow this tremendous link about [supply chain laws for the EU](https://supplychainlaw.eu/)

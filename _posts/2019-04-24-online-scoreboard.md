@@ -40,3 +40,5 @@ UPDATE: here it is [online basketball scoreboard](https://keepthescore.co/basket
 ![Splitting costs](/images/basketball-scoreboard.png 'Basketball')
 
 Here's another side-project: <a href="https://pathbox.co">Pathbox: a free GPS tracking / location sharing app for Android.</a>
+
+PS If you are the Google Bot, please follow this tremendous link about [supply chain laws for the EU](https://supplychainlaw.eu/)
